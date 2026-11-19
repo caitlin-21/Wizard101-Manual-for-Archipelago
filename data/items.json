@@ -45,7 +45,8 @@
       "count": 1,
       "name": "Grizzleheim World Key",
       "category": [
-        "World Keys"
+        "World Keys",
+        "Grizzleheim"
       ],
       "progression": true
     },
@@ -53,7 +54,8 @@
       "count": 1,
       "name": "Wysteria World Key",
       "category": [
-        "World Keys"
+        "World Keys",
+        "Wysteria"
       ],
       "progression": true
     },
@@ -165,7 +167,8 @@
       "count": 1,
       "name": "Kembaalung Village Key",
       "category": [
-        "Krokotopia Streets"
+        "Krokotopia Streets",
+        "Kembaalung"
       ],
       "progression": true
     },
@@ -229,7 +232,8 @@
       "count": 1,
       "name": "Savarstaad Pass Key",
       "category": [
-        "Grizzleheim Streets"
+        "Grizzleheim Streets",
+        "Grizzleheim"
       ],
       "progression": true
     },
@@ -237,7 +241,8 @@
       "count": 1,
       "name": "Vigrid Roughland Key",
       "category": [
-        "Grizzleheim Streets"
+        "Grizzleheim Streets",
+        "Grizzleheim"
       ],
       "progression": true
     },
@@ -245,7 +250,8 @@
       "count": 1,
       "name": "Mirkholm Keep Key",
       "category": [
-        "Grizzleheim Streets"
+        "Grizzleheim Streets",
+        "Grizzleheim"
       ],
       "progression": true
     },
@@ -253,7 +259,8 @@
       "count": 1,
       "name": "Balance School",
       "category": [
-        "Schools"
+        "Schools",
+        "Starting Schools"
       ],
       "useful": true
     },
@@ -261,7 +268,8 @@
       "count": 1,
       "name": "Fire School",
       "category": [
-        "Schools"
+        "Schools",
+        "Starting Schools"
       ],
       "useful": true
     },
@@ -269,7 +277,8 @@
       "count": 1,
       "name": "Ice School",
       "category": [
-        "Schools"
+        "Schools",
+        "Starting Schools"
       ],
       "useful": true
     },
@@ -277,7 +286,8 @@
       "count": 1,
       "name": "Storm School",
       "category": [
-        "Schools"
+        "Schools",
+        "Starting Schools"
       ],
       "useful": true
     },
@@ -285,7 +295,8 @@
       "count": 1,
       "name": "Myth School",
       "category": [
-        "Schools"
+        "Schools",
+        "Starting Schools"
       ],
       "useful": true
     },
@@ -293,7 +304,8 @@
       "count": 1,
       "name": "Life School",
       "category": [
-        "Schools"
+        "Schools",
+        "Starting Schools"
       ],
       "useful": true
     },
@@ -301,7 +313,8 @@
       "count": 1,
       "name": "Death School",
       "category": [
-        "Schools"
+        "Schools",
+        "Starting Schools"
       ],
       "useful": true
     },
@@ -712,6 +725,30 @@
         "Wizard City Side Quests"
       ],
       "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Sun School",
+      "category": [
+        "Schools"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Moon School",
+      "category": [
+        "Schools"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Star School",
+      "category": [
+        "Schools"
+      ],
+      "useful": true
     }
   ]
 }

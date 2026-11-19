@@ -1338,7 +1338,8 @@
       "name": "[GH-01] Bear Market",
       "region": "Olde Town Sidequests",
       "category": [
-        "WC - Olde Town Side Quests"
+        "WC - Olde Town Side Quests",
+        "Grizzleheim"
       ],
       "requires": "|Grizzleheim World Key| AND |Triton Avenue Key| AND |Cyclops Lane Key| AND |Firecat Alley Key|"
     },
@@ -1346,7 +1347,8 @@
       "name": "[GH-02] Trade Voyage",
       "region": "Olde Town Sidequests",
       "category": [
-        "WC - Olde Town Side Quests"
+        "WC - Olde Town Side Quests",
+        "Grizzleheim"
       ],
       "requires": "|Grizzleheim World Key| AND |Triton Avenue Key| AND |Cyclops Lane Key| AND |Firecat Alley Key|"
     },
@@ -1982,7 +1984,7 @@
       ],
       "requires": "",
       "place_item_category": [
-        "Schools"
+        "Starting Schools"
       ]
     },
     {
@@ -3581,7 +3583,8 @@
       "name": "[TO-19] Lost Beagle",
       "region": "Kembaalung Village",
       "category": [
-        "KT - The Oasis Side Quests"
+        "KT - The Oasis Side Quests",
+        "Kembaalung"
       ],
       "requires": ""
     },
@@ -3589,7 +3592,8 @@
       "name": "[TO-20] Carry That Wheat",
       "region": "Kembaalung Village",
       "category": [
-        "KT - The Oasis Side Quests"
+        "KT - The Oasis Side Quests",
+        "Kembaalung"
       ],
       "requires": ""
     },
@@ -3597,7 +3601,8 @@
       "name": "[TO-21] Charter the Dragon",
       "region": "Kembaalung Village",
       "category": [
-        "KT - The Oasis Side Quests"
+        "KT - The Oasis Side Quests",
+        "Kembaalung"
       ],
       "requires": ""
     },
@@ -3605,7 +3610,8 @@
       "name": "[KV-01] The Attaché Case",
       "region": "Kembaalung Village",
       "category": [
-        "KT - Kembaalung Village Quests"
+        "KT - Kembaalung Village Quests",
+        "Kembaalung"
       ],
       "requires": ""
     },
@@ -3613,7 +3619,8 @@
       "name": "[KV-02] The Path of Harmony",
       "region": "Kembaalung Village",
       "category": [
-        "KT - Kembaalung Village Quests"
+        "KT - Kembaalung Village Quests",
+        "Kembaalung"
       ],
       "requires": ""
     },
@@ -3621,7 +3628,8 @@
       "name": "[KV-03] Harmony v. Discord",
       "region": "Kembaalung Village",
       "category": [
-        "KT - Kembaalung Village Quests"
+        "KT - Kembaalung Village Quests",
+        "Kembaalung"
       ],
       "requires": ""
     }

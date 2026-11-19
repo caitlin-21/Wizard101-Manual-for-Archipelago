@@ -1,0 +1,55 @@
+{
+    "Starting Schools": {
+        "hidden": true
+    },
+    "Wizard City Enemies": {
+        "yaml_option": ["enemysanity"]
+    },
+    "Krokotopia Enemies": {
+        "yaml_option": ["enemysanity"]
+    },
+    "Marleybone Enemies": {
+        "yaml_option": ["enemysanity"]
+    },
+    "Grizzleheim Enemies": {
+        "yaml_option": ["enemysanity", "grizzleheim"]
+    },
+    "Kembaalung Enemies": {
+        "yaml_option": ["enemysanity", "kembaalung"]
+    },
+    "Wysteria Enemies": {
+        "yaml_option": ["enemysanity", "wysteria"]
+    },
+    "Wysteria": {
+        "yaml_option": ["wysteria"],
+        "hidden": true
+    },
+    "Grizzleheim": {
+        "yaml_option": ["grizzleheim"],
+        "hidden": true
+    },
+    "GH - Northguard Quests": {
+        "yaml_option": ["grizzleheim"],
+        "hidden": false
+    },
+    "GH - Savarstaad Pass Quests": {
+        "yaml_option": ["grizzleheim"],
+        "hidden": false
+    },
+    "GH - Vigrid Roughland Quests": {
+        "yaml_option": ["grizzleheim"],
+        "hidden": false
+    },
+    "GH - Mirkholm Keep Quests": {
+        "yaml_option": ["grizzleheim"],
+        "hidden": false
+    },
+    "GH - Frostholm Quests": {
+        "yaml_option": ["grizzleheim"],
+        "hidden": false
+    },
+    "Kembaalung": {
+        "yaml_option": ["kembaalung"],
+        "hidden": true
+    }
+}
