@@ -2039,7 +2039,7 @@
       "name": "[TC-01] Live Tree or Die",
       "region": "The Commons Sidequests",
       "category": [
-        "WC - The Library Side Quests"
+        "WC - The Commons Side Quests"
       ],
       "requires": "|Triton Avenue Key| AND |Firecat Alley Key| AND |Cyclops Lane Key| AND |Colossus Boulevard Key| AND |Book Quest (WC)|"
     },

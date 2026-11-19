@@ -2,7 +2,7 @@
     "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.options.schema.json",
     "_comment": "Add a _ before an option name to comment it out and it wont be added to the apworld",
     "core": {
-        "goal":{
+        "_goal":{
             "_comment": [
                 "Using 'goal' as the name of an option let you override some of the generated goal parameters"
             ],
@@ -14,7 +14,7 @@
         "death_link": {
             "default": false
         },
-        "filler_traps": {
+        "_filler_traps": {
             "_comment": "Using values here let you set a 'recommended' filler_trap percentage or even a default percentage",
             "values": {
                 "recommended": 20
