@@ -1,0 +1,717 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+  "data": [
+    {
+      "count": "50",
+      "name": "Mana Wisp",
+      "category": [
+        "Filler"
+      ],
+      "filler": true
+    },
+    {
+      "count": "50",
+      "name": "Health Wisp",
+      "category": [
+        "Filler"
+      ],
+      "filler": true
+    },
+    {
+      "count": "10",
+      "name": "Training Points",
+      "category": [
+        "Training Points"
+      ],
+      "useful": true
+    },
+    {
+      "count": "15",
+      "name": "Shared Bank Voucher (1 Item)",
+      "category": [
+        "Tokens and Vouchers"
+      ],
+      "useful": true
+    },
+    {
+      "count": "3",
+      "name": "Progressive Spiral Door Key",
+      "category": [
+        "World Keys"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Grizzleheim World Key",
+      "category": [
+        "World Keys"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Wysteria World Key",
+      "category": [
+        "World Keys"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Triton Avenue Key",
+      "category": [
+        "Wizard City Streets"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Firecat Alley Key",
+      "category": [
+        "Wizard City Streets"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Cyclops Lane Key",
+      "category": [
+        "Wizard City Streets"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Colossus Boulevard Key",
+      "category": [
+        "Wizard City Streets"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Golem Court Key",
+      "category": [
+        "Wizard City Streets"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Royal Hall Key",
+      "category": [
+        "Krokotopia Streets"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Chamber of Fire Key",
+      "category": [
+        "Krokotopia Streets"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Palace of Fire Key",
+      "category": [
+        "Krokotopia Streets"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Hall of Champions Key",
+      "category": [
+        "Krokotopia Streets"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Grand Arena Key",
+      "category": [
+        "Krokotopia Streets"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Ahnic Family Tomb Key",
+      "category": [
+        "Krokotopia Streets"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Djeserit Family Tomb Key",
+      "category": [
+        "Krokotopia Streets"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Karanahn Barracks Key",
+      "category": [
+        "Krokotopia Streets"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Kembaalung Village Key",
+      "category": [
+        "Krokotopia Streets"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Hyde Park Key",
+      "category": [
+        "Marleybone Streets"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Chelsea Court Key",
+      "category": [
+        "Marleybone Streets"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Newgate Prison Key",
+      "category": [
+        "Marleybone Streets"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Knight's Court Key",
+      "category": [
+        "Marleybone Streets"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Royal Museum Key",
+      "category": [
+        "Marleybone Streets"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Barkingham Palace Key",
+      "category": [
+        "Marleybone Streets"
+      ],
+      "progression": true
+    },
+    {
+      "count": "5",
+      "name": "Progressive Pip Cost",
+      "category": [
+        "Progressive Pip Cost"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Savarstaad Pass Key",
+      "category": [
+        "Grizzleheim Streets"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Vigrid Roughland Key",
+      "category": [
+        "Grizzleheim Streets"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Mirkholm Keep Key",
+      "category": [
+        "Grizzleheim Streets"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Balance School",
+      "category": [
+        "Schools"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Fire School",
+      "category": [
+        "Schools"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Ice School",
+      "category": [
+        "Schools"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Storm School",
+      "category": [
+        "Schools"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Myth School",
+      "category": [
+        "Schools"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Life School",
+      "category": [
+        "Schools"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Death School",
+      "category": [
+        "Schools"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Unicorn Way Side Quest Key",
+      "category": [
+        "Wizard City Side Quests"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "The Commons Side Quest Key",
+      "category": [
+        "Wizard City Side Quests"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Triton Avenue Side Quest Key",
+      "category": [
+        "Wizard City Side Quests"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Firecat Alley Side Quest Key",
+      "category": [
+        "Wizard City Side Quests"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Cyclops Lane Side Quest Key",
+      "category": [
+        "Wizard City Side Quests"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Find the Smiths (WC)",
+      "category": [
+        "Zeke Quests"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Find the Beetles (KT)",
+      "category": [
+        "Zeke Quests"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Stray Cat Strut (MB)",
+      "category": [
+        "Zeke Quests"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Royal Hall Side Quest Key",
+      "category": [
+        "Krokotopia Side Quests"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Chamber of Fire Side Quest Key",
+      "category": [
+        "Krokotopia Side Quests"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Palace of Fire Side Quest Key",
+      "category": [
+        "Krokotopia Side Quests"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Grand Arena Side Quest Key",
+      "category": [
+        "Krokotopia Side Quests"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Entrance Hall Side Quest Key",
+      "category": [
+        "Krokotopia Side Quests"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "The Oasis Side Quest Key",
+      "category": [
+        "Krokotopia Side Quests"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Djeserit Family Tomb Side Quest Key",
+      "category": [
+        "Krokotopia Side Quests"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Ahnic Family Tomb Side Quest Key",
+      "category": [
+        "Krokotopia Side Quests"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Karanahn Barracks Side Quest Key",
+      "category": [
+        "Krokotopia Side Quests"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Digmoore Station Side Quest Key",
+      "category": [
+        "Marleybone Side Quests"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Hyde Park Side Quest Key",
+      "category": [
+        "Marleybone Side Quests"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Chelsea Court Side Quest Key",
+      "category": [
+        "Marleybone Side Quests"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Newgate Prison Side Quest Key",
+      "category": [
+        "Marleybone Side Quests"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Regent's Square Side Quest Key",
+      "category": [
+        "Marleybone Side Quests"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Knight's Court Side Quest Key",
+      "category": [
+        "Marleybone Side Quests"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Scotland Yard Side Quest Key",
+      "category": [
+        "Marleybone Side Quests"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Book Quest (MB)",
+      "category": [
+        "Marleybone Side Quests"
+      ],
+      "progression": true
+    },
+    {
+      "count": "30",
+      "name": "Bazaar Voucher (1 Item)",
+      "category": [
+        "Tokens and Vouchers"
+      ],
+      "useful": true
+    },
+    {
+      "count": "20",
+      "name": "Treasure Card Voucher (3 Cards)",
+      "category": [
+        "Tokens and Vouchers"
+      ],
+      "filler": true
+    },
+    {
+      "count": "20",
+      "name": "Treasure Card Voucher (1 Card)",
+      "category": [
+        "Tokens and Vouchers"
+      ],
+      "filler": true
+    },
+    {
+      "count": "10",
+      "name": "Treasure Card Voucher (5 Cards)",
+      "category": [
+        "Tokens and Vouchers"
+      ],
+      "filler": true
+    },
+    {
+      "count": "2",
+      "name": "Mount License",
+      "category": [
+        "Licenses"
+      ],
+      "useful": true
+    },
+    {
+      "count": "1",
+      "name": "Pet License",
+      "category": [
+        "Licenses"
+      ],
+      "progression": true
+    },
+    {
+      "count": "10",
+      "name": "Flee Trap",
+      "category": [
+        "Traps"
+      ],
+      "trap": true
+    },
+    {
+      "count": "10",
+      "name": "Mist Wood",
+      "category": [
+        "Filler"
+      ],
+      "filler": true
+    },
+    {
+      "count": "10",
+      "name": "Deep Mushroom",
+      "category": [
+        "Filler"
+      ],
+      "filler": true
+    },
+    {
+      "count": "10",
+      "name": "Flax",
+      "category": [
+        "Filler"
+      ],
+      "filler": true
+    },
+    {
+      "count": "10",
+      "name": "Ore",
+      "category": [
+        "Filler"
+      ],
+      "filler": true
+    },
+    {
+      "count": "10",
+      "name": "Stone Block",
+      "category": [
+        "Filler"
+      ],
+      "filler": true
+    },
+    {
+      "count": "10",
+      "name": "Cat Tail",
+      "category": [
+        "Filler"
+      ],
+      "filler": true
+    },
+    {
+      "count": "10",
+      "name": "Scrap Metal",
+      "category": [
+        "Filler"
+      ],
+      "filler": true
+    },
+    {
+      "count": "5",
+      "name": "Coal",
+      "category": [
+        "Filler"
+      ],
+      "filler": true
+    },
+    {
+      "count": "5",
+      "name": "Citrine",
+      "category": [
+        "Filler"
+      ],
+      "filler": true
+    },
+    {
+      "count": "5",
+      "name": "Jade",
+      "category": [
+        "Filler"
+      ],
+      "filler": true
+    },
+    {
+      "count": "5",
+      "name": "Onyx",
+      "category": [
+        "Filler"
+      ],
+      "filler": true
+    },
+    {
+      "count": "5",
+      "name": "Peridot",
+      "category": [
+        "Filler"
+      ],
+      "filler": true
+    },
+    {
+      "count": "5",
+      "name": "Amethyst",
+      "category": [
+        "Filler"
+      ],
+      "filler": true
+    },
+    {
+      "count": "5",
+      "name": "Sapphire",
+      "category": [
+        "Filler"
+      ],
+      "filler": true
+    },
+    {
+      "count": "5",
+      "name": "Ruby",
+      "category": [
+        "Filler"
+      ],
+      "filler": true
+    },
+    {
+      "count": "11",
+      "name": "Stun Trap",
+      "category": [
+        "Traps"
+      ],
+      "trap": true
+    },
+    {
+      "count": 1,
+      "name": "Well of Spirits Side Quest Key",
+      "category": [
+        "Krokotopia Side Quests"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Book Quest (WC)",
+      "category": [
+        "Wizard City Side Quests"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Olde Town Side Quest Key",
+      "category": [
+        "Wizard City Side Quests"
+      ],
+      "progression": true
+    }
+  ]
+}

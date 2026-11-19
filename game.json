@@ -1,0 +1,7 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "Wizard101",
+  "creator": "caitlin21",
+  "filler_item_name": "0 Gold",
+  "starting_items": []
+}

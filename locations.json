@@ -1,0 +1,3629 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
+  "data": [
+    {
+      "name": "[WC-01] Unicorn Way",
+      "region": "Unicorn Way",
+      "category": [
+        "*World 1 - Wizard City Storyline*"
+      ],
+      "requires": "",
+      "place_item": [
+        "Progressive Pip Cost"
+      ]
+    },
+    {
+      "name": "[WC-02] Ghost Hunters",
+      "region": "Unicorn Way",
+      "category": [
+        "*World 1 - Wizard City Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[WC-03] Skeleton Crew",
+      "region": "Unicorn Way",
+      "category": [
+        "*World 1 - Wizard City Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[WC-04] Monsters and Mazes",
+      "region": "Unicorn Way",
+      "category": [
+        "*World 1 - Wizard City Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[WC-05] Finding Out Why",
+      "region": "Unicorn Way",
+      "category": [
+        "*World 1 - Wizard City Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[WC-06] Who Could It Be Now?",
+      "region": "Unicorn Way",
+      "category": [
+        "*World 1 - Wizard City Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[WC-07] Sinister Skeleton",
+      "region": "Unicorn Way",
+      "category": [
+        "*World 1 - Wizard City Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[WC-08] Grim Tales",
+      "region": "Unicorn Way",
+      "category": [
+        "*World 1 - Wizard City Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[WC-09] To Ravenwood!",
+      "region": "The Commons",
+      "category": [
+        "*World 1 - Wizard City Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[WC-10] Panic In Three Streets!",
+      "region": "The Commons",
+      "category": [
+        "*World 1 - Wizard City Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[WC-11] A Good Day to Cyclops",
+      "region": "Olde Town",
+      "category": [
+        "*World 1 - Wizard City Storyline*"
+      ],
+      "requires": "|Cyclops Lane Key|"
+    },
+    {
+      "name": "[WC-17] Putting Out the Fire!",
+      "region": "Olde Town",
+      "category": [
+        "*World 1 - Wizard City Storyline*"
+      ],
+      "requires": "|Firecat Alley Key|"
+    },
+    {
+      "name": "[WC-24] Trouble on Triton Avenue",
+      "region": "Olde Town",
+      "category": [
+        "*World 1 - Wizard City Storyline*"
+      ],
+      "requires": "|Triton Avenue Key|"
+    },
+    {
+      "name": "[WC-12] A Stroll With Trolls",
+      "region": "Cyclops Lane",
+      "category": [
+        "*World 1 - Wizard City Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[WC-13] Run and Done",
+      "region": "Cyclops Lane",
+      "category": [
+        "*World 1 - Wizard City Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[WC-14] The Cave Escape",
+      "region": "Cyclops Lane",
+      "category": [
+        "*World 1 - Wizard City Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[WC-15] Oh Me, Oh Minotaur",
+      "region": "Cyclops Lane",
+      "category": [
+        "*World 1 - Wizard City Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[WC-16] Akilles' Deal",
+      "region": "Cyclops Lane",
+      "category": [
+        "*World 1 - Wizard City Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[WC-18] She Ran Crying Wildfire",
+      "region": "Firecat Alley",
+      "category": [
+        "*World 1 - Wizard City Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[WC-19] Which Hunt?",
+      "region": "Firecat Alley",
+      "category": [
+        "*World 1 - Wizard City Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[WC-20] 100% Not That Witch",
+      "region": "Firecat Alley",
+      "category": [
+        "*World 1 - Wizard City Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[WC-21] Which Craft?",
+      "region": "Firecat Alley",
+      "category": [
+        "*World 1 - Wizard City Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[WC-22] The Cure",
+      "region": "Firecat Alley",
+      "category": [
+        "*World 1 - Wizard City Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[WC-23] Firecat's In The Bag",
+      "region": "Firecat Alley",
+      "category": [
+        "*World 1 - Wizard City Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[WC-25] Menacing Minions",
+      "region": "Triton Avenue",
+      "category": [
+        "*World 1 - Wizard City Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[WC-26] The Shadow of Death Magic",
+      "region": "Triton Avenue",
+      "category": [
+        "*World 1 - Wizard City Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[WC-27] Quest for Clues",
+      "region": "Triton Avenue",
+      "category": [
+        "*World 1 - Wizard City Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[WC-28] Catching a Glimpse",
+      "region": "Triton Avenue",
+      "category": [
+        "*World 1 - Wizard City Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[WC-29] Clear as Crystal",
+      "region": "Triton Avenue",
+      "category": [
+        "*World 1 - Wizard City Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[WC-30] Luminate",
+      "region": "Triton Avenue",
+      "category": [
+        "*World 1 - Wizard City Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[WC-31] The Enemy Revealed",
+      "region": "Triton Avenue",
+      "category": [
+        "*World 1 - Wizard City Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[WC-32] To Tame a Tempest",
+      "region": "Triton Avenue",
+      "category": [
+        "*World 1 - Wizard City Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[WC-33] Triton Report",
+      "region": "Triton Avenue",
+      "category": [
+        "*World 1 - Wizard City Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[WC-34] A Brief History of the Spiral",
+      "region": "Olde Town",
+      "category": [
+        "*World 1 - Wizard City Storyline*"
+      ],
+      "requires": "|Triton Avenue Key| AND |Firecat Alley Key| AND |Cyclops Lane Key|"
+    },
+    {
+      "name": "[WC-35] Throwing Nightshade",
+      "region": "Haunted Cave",
+      "category": [
+        "*World 1 - Wizard City Storyline*"
+      ],
+      "requires": "|Cyclops Lane Key| AND |Firecat Alley Key|"
+    },
+    {
+      "name": "[WC-36] Things and Stuff",
+      "region": "Haunted Cave",
+      "category": [
+        "*World 1 - Wizard City Storyline*"
+      ],
+      "requires": "|Cyclops Lane Key| AND |Firecat Alley Key|"
+    },
+    {
+      "name": "[WC-37] Take a Walk on the Nightside",
+      "region": "Haunted Cave",
+      "category": [
+        "*World 1 - Wizard City Storyline*"
+      ],
+      "requires": "|Cyclops Lane Key| AND |Firecat Alley Key|"
+    },
+    {
+      "name": "[KT-01] A Whole New World",
+      "region": "The Oasis",
+      "category": [
+        "*World 2 - Krokotopia Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KT-02] Digging in the Dirt",
+      "region": "The Oasis",
+      "category": [
+        "*World 2 - Krokotopia Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KT-03] Make Some Rubbings",
+      "region": "Royal Hall",
+      "category": [
+        "*World 2 - Krokotopia Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KT-04] Fragments of a Key",
+      "region": "Royal Hall",
+      "category": [
+        "*World 2 - Krokotopia Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KT-05] The Final Rubbing",
+      "region": "Royal Hall",
+      "category": [
+        "*World 2 - Krokotopia Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KT-06] Speak to the Assistant",
+      "region": "Chamber of Fire",
+      "category": [
+        "*World 2 - Krokotopia Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KT-07] Find My Colleague",
+      "region": "Chamber of Fire",
+      "category": [
+        "*World 2 - Krokotopia Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KT-08] New Digs",
+      "region": "Chamber of Fire",
+      "category": [
+        "*World 2 - Krokotopia Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KT-09] Quarter Master",
+      "region": "Chamber of Fire",
+      "category": [
+        "*World 2 - Krokotopia Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KT-10] Back to the Archeologist",
+      "region": "Chamber of Fire",
+      "category": [
+        "*World 2 - Krokotopia Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KT-11] Assault on the Palace",
+      "region": "Palace of Fire",
+      "category": [
+        "*World 2 - Krokotopia Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KT-12] Gather the Troops",
+      "region": "Palace of Fire",
+      "category": [
+        "*World 2 - Krokotopia Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KT-13] Payback",
+      "region": "Palace of Fire",
+      "category": [
+        "*World 2 - Krokotopia Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KT-14] Give 'Em Another Round",
+      "region": "Palace of Fire",
+      "category": [
+        "*World 2 - Krokotopia Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KT-15] Back to Winthrop",
+      "region": "Palace of Fire",
+      "category": [
+        "*World 2 - Krokotopia Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KT-16] Into the Map Room",
+      "region": "Palace of Fire",
+      "category": [
+        "*World 2 - Krokotopia Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KT-17] Serpent Staff",
+      "region": "Palace of Fire",
+      "category": [
+        "*World 2 - Krokotopia Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KT-18] Eye of Krok",
+      "region": "Palace of Fire",
+      "category": [
+        "*World 2 - Krokotopia Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KT-19] Use the Map Room",
+      "region": "Palace of Fire",
+      "category": [
+        "*World 2 - Krokotopia Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KT-20] Permission to Enter",
+      "region": "Palace of Fire",
+      "category": [
+        "*World 2 - Krokotopia Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KT-21] Fangdango",
+      "region": "Krokosphinx",
+      "category": [
+        "*World 2 - Krokotopia Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KT-22] Order at Last",
+      "region": "Krokosphinx",
+      "category": [
+        "*World 2 - Krokotopia Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KT-23] The Great General",
+      "region": "Hall of Champions",
+      "category": [
+        "*World 2 - Krokotopia Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KT-24] Minion Massacre",
+      "region": "Hall of Champions",
+      "category": [
+        "*World 2 - Krokotopia Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KT-25] Search for the Seal",
+      "region": "Hall of Champions",
+      "category": [
+        "*World 2 - Krokotopia Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KT-26] General Admission",
+      "region": "Hall of Champions",
+      "category": [
+        "*World 2 - Krokotopia Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KT-27] Coin of Destiny",
+      "region": "Hall of Champions",
+      "category": [
+        "*World 2 - Krokotopia Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KT-28] Lay of the Land",
+      "region": "Hall of Champions",
+      "category": [
+        "*World 2 - Krokotopia Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KT-29] Blades of Ice",
+      "region": "Hall of Champions",
+      "category": [
+        "*World 2 - Krokotopia Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KT-30] Armor Handle",
+      "region": "Grand Arena",
+      "category": [
+        "*World 2 - Krokotopia Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KT-31] Get Some Bling",
+      "region": "Grand Arena",
+      "category": [
+        "*World 2 - Krokotopia Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KT-32] Grip It!",
+      "region": "Grand Arena",
+      "category": [
+        "*World 2 - Krokotopia Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KT-33] Forge Key",
+      "region": "Grand Arena",
+      "category": [
+        "*World 2 - Krokotopia Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KT-34] Taking It to the Tuts",
+      "region": "Grand Arena",
+      "category": [
+        "*World 2 - Krokotopia Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KT-35] Back Among the Fold",
+      "region": "Grand Arena",
+      "category": [
+        "*World 2 - Krokotopia Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KT-36] Quest for the Warrior",
+      "region": "Grand Arena",
+      "category": [
+        "*World 2 - Krokotopia Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KT-37] Mark of the Gladiator",
+      "region": "Grand Arena",
+      "category": [
+        "*World 2 - Krokotopia Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KT-38] Gladiator Games",
+      "region": "Grand Arena",
+      "category": [
+        "*World 2 - Krokotopia Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KT-39] Are You Experienced?",
+      "region": "Grand Arena",
+      "category": [
+        "*World 2 - Krokotopia Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KT-40] Battle of the Sunbird",
+      "region": "Grand Arena",
+      "category": [
+        "*World 2 - Krokotopia Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KT-41] Along Came a Spider",
+      "region": "Grand Arena",
+      "category": [
+        "*World 2 - Krokotopia Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KT-42] Stonechin",
+      "region": "Grand Arena",
+      "category": [
+        "*World 2 - Krokotopia Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KT-43] Enter Sandman",
+      "region": "Grand Arena",
+      "category": [
+        "*World 2 - Krokotopia Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KT-44] Malletmane",
+      "region": "Grand Arena",
+      "category": [
+        "*World 2 - Krokotopia Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KT-45] Krokotopian Idol",
+      "region": "Grand Arena",
+      "category": [
+        "*World 2 - Krokotopia Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KT-46] Who's More Amazing?",
+      "region": "Grand Arena",
+      "category": [
+        "*World 2 - Krokotopia Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KT-47] The Ultimate Battle",
+      "region": "Grand Arena",
+      "category": [
+        "*World 2 - Krokotopia Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KT-48] Return to Shalek",
+      "region": "Grand Arena",
+      "category": [
+        "*World 2 - Krokotopia Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KT-49] Find the Fang",
+      "region": "Vault of Ice",
+      "category": [
+        "*World 2 - Krokotopia Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KT-50] Breaking the Vault",
+      "region": "Vault of Ice",
+      "category": [
+        "*World 2 - Krokotopia Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KT-51] Retribution",
+      "region": "Emperor's Retreat",
+      "category": [
+        "*World 2 - Krokotopia Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KT-52] Guardians at the Gate",
+      "region": "Emperor's Retreat",
+      "category": [
+        "*World 2 - Krokotopia Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KT-53] New Allies",
+      "region": "Emperor's Retreat",
+      "category": [
+        "*World 2 - Krokotopia Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KT-54] Overpower the Overseer",
+      "region": "Emperor's Retreat",
+      "category": [
+        "*World 2 - Krokotopia Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KT-55] The Right Combination",
+      "region": "Emperor's Retreat",
+      "category": [
+        "*World 2 - Krokotopia Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KT-56] Back to Balance",
+      "region": "Emperor's Retreat",
+      "category": [
+        "*World 2 - Krokotopia Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KT-57] Tomb of Storms",
+      "region": "Well of Spirits",
+      "category": [
+        "*World 2 - Krokotopia Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KT-58] De-Cipher the Ahnics",
+      "region": "Ahnic Family Tomb",
+      "category": [
+        "*World 2 - Krokotopia Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KT-59] De-Cipher the Djeserits",
+      "region": "Djeserit Family Tomb",
+      "category": [
+        "*World 2 - Krokotopia Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KT-60] The Key to the Temple",
+      "region": "Karanahn Barracks",
+      "category": [
+        "*World 2 - Krokotopia Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KT-62] Temple Dweller",
+      "region": "Karanahn Barracks",
+      "category": [
+        "*World 2 - Krokotopia Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KT-63] Test of Strength",
+      "region": "Karanahn Barracks",
+      "category": [
+        "*World 2 - Krokotopia Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KT-64] Get Smart",
+      "region": "Karanahn Barracks",
+      "category": [
+        "*World 2 - Krokotopia Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KT-65] Triumphant Return",
+      "region": "Karanahn Barracks",
+      "category": [
+        "*World 2 - Krokotopia Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KT-66] Missing Souls",
+      "region": "Karanahn Barracks",
+      "category": [
+        "*World 2 - Krokotopia Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[MB-01] Sarcophagus Search",
+      "region": "Regent's Square",
+      "category": [
+        "*World 3 - Marleybone Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[MB-02] Not So Fast...",
+      "region": "Regent's Square",
+      "category": [
+        "*World 3 - Marleybone Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[MB-03] A Cat-tastrophy",
+      "category": [
+        "*World 3 - Marleybone Storyline*"
+      ],
+      "requires": "",
+      "region": "Regent's Square"
+    },
+    {
+      "name": "[MB-04]Back Up for Bones",
+      "region": "Hyde Park",
+      "category": [
+        "*World 3 - Marleybone Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[MB-05] Garden Secret",
+      "region": "Hyde Park",
+      "category": [
+        "*World 3 - Marleybone Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[MB-06] House Hunt",
+      "region": "Hyde Park",
+      "category": [
+        "*World 3 - Marleybone Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[MB-07] Springing the Snitch",
+      "region": "Hyde Park",
+      "category": [
+        "*World 3 - Marleybone Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[MB-08] The Right Tools",
+      "region": "Hyde Park",
+      "category": [
+        "*World 3 - Marleybone Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[MB-09] Open Says Me",
+      "region": "Hyde Park",
+      "category": [
+        "*World 3 - Marleybone Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[MB-10] Out of Control",
+      "region": "Chelsea Court",
+      "category": [
+        "*World 3 - Marleybone Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[MB-11] For Whom the Bell Tolls",
+      "region": "Chelsea Court",
+      "category": [
+        "*World 3 - Marleybone Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[MB-12] A Guide...",
+      "region": "Chelsea Court",
+      "category": [
+        "*World 3 - Marleybone Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[MB-13] Keeper of Secrets",
+      "region": "Chelsea Court",
+      "category": [
+        "*World 3 - Marleybone Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[MB-14] The Only One Left",
+      "region": "Chelsea Court",
+      "category": [
+        "*World 3 - Marleybone Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[MB-15] Sweet Success",
+      "region": "Chelsea Court",
+      "category": [
+        "*World 3 - Marleybone Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[MB-16] Password, Please!",
+      "region": "Chelsea Court",
+      "category": [
+        "*World 3 - Marleybone Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[MB-17] Collar Me Impressed",
+      "region": "Chelsea Court",
+      "category": [
+        "*World 3 - Marleybone Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[MB-18] A Private Meeting",
+      "region": "The Ironworks",
+      "category": [
+        "*World 3 - Marleybone Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[MB-19] Ticket to the Ironworks",
+      "region": "The Ironworks",
+      "category": [
+        "*World 3 - Marleybone Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[MB-20] Internal Investigation",
+      "region": "The Ironworks",
+      "category": [
+        "*World 3 - Marleybone Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[MB-21] No Entry",
+      "region": "The Ironworks",
+      "category": [
+        "*World 3 - Marleybone Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[MB-22] Gate Crashers",
+      "region": "The Ironworks",
+      "category": [
+        "*World 3 - Marleybone Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[MB-23] Purloin the Plans",
+      "region": "The Ironworks",
+      "category": [
+        "*World 3 - Marleybone Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[MB-24] Bully the Boss",
+      "region": "The Ironworks",
+      "category": [
+        "*World 3 - Marleybone Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[MB-25] Knock on Wood",
+      "region": "The Ironworks",
+      "category": [
+        "*World 3 - Marleybone Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[MB-26] Ring the Alarm",
+      "region": "Scotland Yard",
+      "category": [
+        "*World 3 - Marleybone Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[MB-27] Prison Break",
+      "region": "Newgate Prison",
+      "category": [
+        "*World 3 - Marleybone Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[MB-28] Stop that Cat!",
+      "region": "Newgate Prison",
+      "category": [
+        "*World 3 - Marleybone Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[MB-29] Scratching Post",
+      "region": "Knight's Court",
+      "category": [
+        "*World 3 - Marleybone Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[MB-30] Wildcat Woes",
+      "region": "Knight's Court",
+      "category": [
+        "*World 3 - Marleybone Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[MB-31] Cat Scratch Fever",
+      "region": "Knight's Court",
+      "category": [
+        "*World 3 - Marleybone Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[MB-32] Investigation...",
+      "region": "Knight's Court",
+      "category": [
+        "*World 3 - Marleybone Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[MB-33] Location, Location...",
+      "region": "Knight's Court",
+      "category": [
+        "*World 3 - Marleybone Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[MB-34] Gimme a Hand",
+      "region": "Knight's Court",
+      "category": [
+        "*World 3 - Marleybone Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[MB-35] Cross Examination",
+      "region": "Knight's Court",
+      "category": [
+        "*World 3 - Marleybone Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[MB-36] Doctor of Deception",
+      "region": "Knight's Court",
+      "category": [
+        "*World 3 - Marleybone Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[MB-37] Case Closed!",
+      "region": "Knight's Court",
+      "category": [
+        "*World 3 - Marleybone Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[MB-38] Weird Science",
+      "region": "Katzenstein's Lab",
+      "category": [
+        "*World 3 - Marleybone Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[MB-39] The Right Combination",
+      "region": "Katzenstein's Lab",
+      "category": [
+        "*World 3 - Marleybone Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[MB-40]Locked Door",
+      "region": "Katzenstein's Lab",
+      "category": [
+        "*World 3 - Marleybone Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[MB-41] Gate is Enough",
+      "region": "Katzenstein's Lab",
+      "category": [
+        "*World 3 - Marleybone Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[MB-42] The Second Door",
+      "region": "Katzenstein's Lab",
+      "category": [
+        "*World 3 - Marleybone Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[MB-43] If You Build It...",
+      "region": "Katzenstein's Lab",
+      "category": [
+        "*World 3 - Marleybone Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[MB-44] It's Alive!",
+      "region": "Katzenstein's Lab",
+      "category": [
+        "*World 3 - Marleybone Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[MB-45] Fetch Bones!",
+      "region": "Royal Museum",
+      "category": [
+        "*World 3 - Marleybone Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[MB-46] Stolen Away",
+      "region": "Royal Museum",
+      "category": [
+        "*World 3 - Marleybone Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[MB-47] Metal Madness",
+      "region": "Royal Museum",
+      "category": [
+        "*World 3 - Marleybone Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[MB-48] Weights and Measures",
+      "region": "Royal Museum",
+      "category": [
+        "*World 3 - Marleybone Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[MB-49] More Metal Madness",
+      "region": "Royal Museum",
+      "category": [
+        "*World 3 - Marleybone Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[MB-50] The Last Meow",
+      "region": "Big Ben",
+      "category": [
+        "*World 3 - Marleybone Storyline*"
+      ],
+      "requires": "",
+      "victory": true
+    },
+    {
+      "name": "[MB-51] Stealthy Stuff",
+      "region": "Big Ben",
+      "category": [
+        "*World 3 - Marleybone Storyline*"
+      ],
+      "requires": "",
+      "victory": false
+    },
+    {
+      "name": "[CB-01] Colossal Trouble",
+      "region": "Colossus Boulevard",
+      "category": [
+        "WC - Colossus Boulevard Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[CB-02] Pixiecrown Project",
+      "region": "Colossus Boulevard",
+      "category": [
+        "WC - Colossus Boulevard Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[CB-03] Invasion",
+      "region": "Colossus Boulevard",
+      "category": [
+        "WC - Colossus Boulevard Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[CB-04] Strange Brew",
+      "region": "Colossus Boulevard",
+      "category": [
+        "WC - Colossus Boulevard Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[CB-05] Doctor's Orders",
+      "region": "Colossus Boulevard",
+      "category": [
+        "WC - Colossus Boulevard Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[CB-06] Let's Make a Deal",
+      "region": "Colossus Boulevard",
+      "category": [
+        "WC - Colossus Boulevard Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[CB-07] A Foul Decree",
+      "region": "Colossus Boulevard",
+      "category": [
+        "WC - Colossus Boulevard Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[CB-08] Seal the Deal",
+      "region": "Colossus Boulevard",
+      "category": [
+        "WC - Colossus Boulevard Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[CB-09] New Neighbors?",
+      "region": "Colossus Boulevard",
+      "category": [
+        "WC - Colossus Boulevard Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[CB-10] Longspear is Late!",
+      "region": "Colossus Boulevard",
+      "category": [
+        "WC - Colossus Boulevard Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[CB-11] Stop, Thief!",
+      "region": "Colossus Boulevard",
+      "category": [
+        "WC - Colossus Boulevard Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[CB-12] Cleaning Up",
+      "region": "Colossus Boulevard",
+      "category": [
+        "WC - Colossus Boulevard Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[CB-13] A Helping Hand",
+      "region": "Colossus Boulevard",
+      "category": [
+        "WC - Colossus Boulevard Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[GH-01] Bear Market",
+      "region": "Olde Town Sidequests",
+      "category": [
+        "WC - Olde Town Side Quests"
+      ],
+      "requires": "|Grizzleheim World Key| AND |Triton Avenue Key| AND |Cyclops Lane Key| AND |Firecat Alley Key|"
+    },
+    {
+      "name": "[GH-02] Trade Voyage",
+      "region": "Olde Town Sidequests",
+      "category": [
+        "WC - Olde Town Side Quests"
+      ],
+      "requires": "|Grizzleheim World Key| AND |Triton Avenue Key| AND |Cyclops Lane Key| AND |Firecat Alley Key|"
+    },
+    {
+      "name": "[GH-03] Grizzleheim",
+      "region": "Northguard",
+      "category": [
+        "GH - Northguard Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[GH-04] I'm with the Band",
+      "region": "Northguard",
+      "category": [
+        "GH - Northguard Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[GH-05] Face Your Fate",
+      "region": "Savarstaad Pass",
+      "category": [
+        "GH - Savarstaad Pass Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[GH-06] Spiritual Father",
+      "region": "Savarstaad Pass",
+      "category": [
+        "GH - Savarstaad Pass Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[GH-07] A Lesson in Manners",
+      "region": "Savarstaad Pass",
+      "category": [
+        "GH - Savarstaad Pass Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[GH-08] Bear Behind Bars",
+      "region": "Savarstaad Pass",
+      "category": [
+        "GH - Savarstaad Pass Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[GH-09] My Brother's Enemy",
+      "region": "Savarstaad Pass",
+      "category": [
+        "GH - Savarstaad Pass Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[GH-10] Making the Blade",
+      "region": "Savarstaad Pass",
+      "category": [
+        "GH - Savarstaad Pass Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[GH-11] Hammer and Tongs",
+      "region": "Savarstaad Pass",
+      "category": [
+        "GH - Savarstaad Pass Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[GH-12] Metal Health",
+      "region": "Savarstaad Pass",
+      "category": [
+        "GH - Savarstaad Pass Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[GH-13] The Spider Queen",
+      "region": "Savarstaad Pass",
+      "category": [
+        "GH - Savarstaad Pass Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[GH-14] Thrice-Blessed Blade",
+      "region": "Savarstaad Pass",
+      "category": [
+        "GH - Savarstaad Pass Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[GH-15] The Sword is Forged",
+      "region": "Savarstaad Pass",
+      "category": [
+        "GH - Savarstaad Pass Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[GH-16] Watch Your Back",
+      "region": "Savarstaad Pass",
+      "category": [
+        "GH - Savarstaad Pass Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[GH-17] The Gates of Draugarth",
+      "region": "Savarstaad Pass",
+      "category": [
+        "GH - Savarstaad Pass Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[GH-18] Fate Awaits",
+      "region": "Savarstaad Pass",
+      "category": [
+        "GH - Savarstaad Pass Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[GH-19] Immigrant Song",
+      "region": "Savarstaad Pass",
+      "category": [
+        "GH - Savarstaad Pass Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[GH-20] Lending a Paw",
+      "region": "Savarstaad Pass",
+      "category": [
+        "GH - Savarstaad Pass Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[GH-21] Hunter-Gatherer",
+      "region": "Vigrid Roughland",
+      "category": [
+        "GH - Vigrid Roughland Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[GH-22] Bears in the Woods",
+      "region": "Vigrid Roughland",
+      "category": [
+        "GH - Vigrid Roughland Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[GH-23] Wolf Scouts",
+      "region": "Vigrid Roughland",
+      "category": [
+        "GH - Vigrid Roughland Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[GH-24] Grimnir and Bear It",
+      "region": "Vigrid Roughland",
+      "category": [
+        "GH - Vigrid Roughland Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[GH-25] That Old Ice Magic",
+      "region": "Vigrid Roughland",
+      "category": [
+        "GH - Vigrid Roughland Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[GH-26] Nine is Enough",
+      "region": "Vigrid Roughland",
+      "category": [
+        "GH - Vigrid Roughland Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[GH-27] Grendel's List",
+      "region": "Vigrid Roughland",
+      "category": [
+        "GH - Vigrid Roughland Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[GH-28] The Eye of Truth",
+      "region": "Vigrid Roughland",
+      "category": [
+        "GH - Vigrid Roughland Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[GH-29] Finding Ivar",
+      "region": "Vigrid Roughland",
+      "category": [
+        "GH - Vigrid Roughland Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[GH-30] Holm Sweet Holm",
+      "region": "Frostholm",
+      "category": [
+        "GH - Frostholm Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[GH-31] The Traitor Within",
+      "region": "Frostholm",
+      "category": [
+        "GH - Frostholm Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[GH-32] Acting Boarish",
+      "region": "Frostholm",
+      "category": [
+        "GH - Frostholm Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[GH-33] The Eye Has It",
+      "region": "Frostholm",
+      "category": [
+        "GH - Frostholm Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[GH-34] Full Grizzle Jacket",
+      "region": "Mirkholm Keep",
+      "category": [
+        "GH - Mirkholm Keep Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[GH-35] One in the Snout",
+      "region": "Mirkholm Keep",
+      "category": [
+        "GH - Mirkholm Keep Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[GH-36] Throwing Stones",
+      "region": "Mirkholm Keep",
+      "category": [
+        "GH - Mirkholm Keep Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[GH-37] Wolves at the Gate",
+      "region": "Mirkholm Keep",
+      "category": [
+        "GH - Mirkholm Keep Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[GH-38] A Wolf Among Bears",
+      "region": "Mirkholm Keep",
+      "category": [
+        "GH - Mirkholm Keep Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[GH-39] The Bear Truth",
+      "region": "Mirkholm Keep",
+      "category": [
+        "GH - Mirkholm Keep Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[GH-40] Healing Helping",
+      "region": "Mirkholm Keep",
+      "category": [
+        "GH - Mirkholm Keep Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[GH-41] Walking Wounded",
+      "region": "Mirkholm Keep",
+      "category": [
+        "GH - Mirkholm Keep Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[GH-42] Leaders of the Pack",
+      "region": "Mirkholm Keep",
+      "category": [
+        "GH - Mirkholm Keep Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[GH-43] Where Wolves?",
+      "region": "Mirkholm Keep",
+      "category": [
+        "GH - Mirkholm Keep Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[GH-44] Clean Them Out",
+      "region": "Mirkholm Keep",
+      "category": [
+        "GH - Mirkholm Keep Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[GH-45] Grendel with Care",
+      "region": "Mirkholm Keep",
+      "category": [
+        "GH - Mirkholm Keep Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[GH-46] Good Eats",
+      "region": "Mirkholm Keep",
+      "category": [
+        "GH - Mirkholm Keep Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[GH-47] From Dusk the Dawn",
+      "region": "Mirkholm Keep",
+      "category": [
+        "GH - Mirkholm Keep Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[GH-48] On Second Thought...",
+      "region": "Mirkholm Keep",
+      "category": [
+        "GH - Mirkholm Keep Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[GH-49] All is Revealed",
+      "region": "Mirkholm Keep",
+      "category": [
+        "GH - Mirkholm Keep Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[GH-50] The King and I",
+      "region": "Mirkholm Keep",
+      "category": [
+        "GH - Mirkholm Keep Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Smith - The Commons",
+      "region": "The Commons",
+      "category": [
+        "WC - The Smiths (Zeke)"
+      ],
+      "requires": "|Find the Smiths (WC)|"
+    },
+    {
+      "name": "Smith - Ravenwood",
+      "region": "Ravenwood",
+      "category": [
+        "WC - The Smiths (Zeke)"
+      ],
+      "requires": "|Find the Smiths (WC)|"
+    },
+    {
+      "name": "Smith - Golem Court",
+      "region": "Golem Court",
+      "category": [
+        "WC - The Smiths (Zeke)"
+      ],
+      "requires": "|Find the Smiths (WC)|"
+    },
+    {
+      "name": "Smith - Shopping District",
+      "region": "Shopping District",
+      "category": [
+        "WC - The Smiths (Zeke)"
+      ],
+      "requires": "|Find the Smiths (WC)|"
+    },
+    {
+      "name": "Smith - Unicorn Way",
+      "region": "Unicorn Way",
+      "category": [
+        "WC - The Smiths (Zeke)"
+      ],
+      "requires": "|Find the Smiths (WC)|"
+    },
+    {
+      "name": "Smith - Olde Town",
+      "region": "Shopping District",
+      "category": [
+        "WC - The Smiths (Zeke)"
+      ],
+      "requires": "|Find the Smiths (WC)|"
+    },
+    {
+      "name": "Smith - Cyclops Lane",
+      "region": "Cyclops Lane",
+      "category": [
+        "WC - The Smiths (Zeke)"
+      ],
+      "requires": "|Find the Smiths (WC)|"
+    },
+    {
+      "name": "Smith - Triton Avenue",
+      "region": "Triton Avenue",
+      "category": [
+        "WC - The Smiths (Zeke)"
+      ],
+      "requires": "|Find the Smiths (WC)|"
+    },
+    {
+      "name": "Smith - Firecat Alley",
+      "region": "Firecat Alley",
+      "category": [
+        "WC - The Smiths (Zeke)"
+      ],
+      "requires": "|Find the Smiths (WC)|"
+    },
+    {
+      "name": "Smith - Colossus Boulevard",
+      "region": "Colossus Boulevard",
+      "category": [
+        "WC - The Smiths (Zeke)"
+      ],
+      "requires": "|Find the Smiths (WC)|"
+    },
+    {
+      "name": "Beetle - The Oasis 1",
+      "region": "The Oasis",
+      "category": [
+        "KT - The Beetles (Zeke)"
+      ],
+      "requires": "|Find the Beetles (KT)|"
+    },
+    {
+      "name": "Beetle - The Oasis 2",
+      "region": "The Oasis",
+      "category": [
+        "KT - The Beetles (Zeke)"
+      ],
+      "requires": "|Find the Beetles (KT)|"
+    },
+    {
+      "name": "Beetle - Altar of Kings",
+      "region": "The Oasis",
+      "category": [
+        "KT - The Beetles (Zeke)"
+      ],
+      "requires": "|Find the Beetles (KT)|"
+    },
+    {
+      "name": "Beetle - Chamber of Fire",
+      "region": "Chamber of Fire",
+      "category": [
+        "KT - The Beetles (Zeke)"
+      ],
+      "requires": "|Find the Beetles (KT)|"
+    },
+    {
+      "name": "Beetle - Krokosphinx",
+      "region": "Krokosphinx",
+      "category": [
+        "KT - The Beetles (Zeke)"
+      ],
+      "requires": "|Find the Beetles (KT)|"
+    },
+    {
+      "name": "Beetle - Entrance Hall",
+      "region": "Krokosphinx",
+      "category": [
+        "KT - The Beetles (Zeke)"
+      ],
+      "requires": "|Find the Beetles (KT)|"
+    },
+    {
+      "name": "Beetle - Emperor's Retreat",
+      "region": "Emperor's Retreat",
+      "category": [
+        "KT - The Beetles (Zeke)"
+      ],
+      "requires": "|Find the Beetles (KT)|"
+    },
+    {
+      "name": "Beetle - Tomb of Storms",
+      "region": "Well of Spirits",
+      "category": [
+        "KT - The Beetles (Zeke)"
+      ],
+      "requires": "|Find the Beetles (KT)|"
+    },
+    {
+      "name": "Beetle - Well of Spirits",
+      "region": "Well of Spirits",
+      "category": [
+        "KT - The Beetles (Zeke)"
+      ],
+      "requires": "|Find the Beetles (KT)|"
+    },
+    {
+      "name": "Beetle - Karanahn Barracks",
+      "region": "Karanahn Barracks",
+      "category": [
+        "KT - The Beetles (Zeke)"
+      ],
+      "requires": "|Find the Beetles (KT)|"
+    },
+    {
+      "name": "Stray Cat - Regent's Square",
+      "region": "Regent's Square",
+      "category": [
+        "MB - Stray Cats (Zeke)"
+      ],
+      "requires": "|Stray Cat Strut (MB)|"
+    },
+    {
+      "name": "Stray Cat - Digmoore Station",
+      "region": "Digmoore Station",
+      "category": [
+        "MB - Stray Cats (Zeke)"
+      ],
+      "requires": "|Stray Cat Strut (MB)|"
+    },
+    {
+      "name": "Stray Cat - Hyde Park",
+      "region": "Hyde Park",
+      "category": [
+        "MB - Stray Cats (Zeke)"
+      ],
+      "requires": "|Stray Cat Strut (MB)|"
+    },
+    {
+      "name": "Stray Cat - Chelsea Court",
+      "region": "Chelsea Court",
+      "category": [
+        "MB - Stray Cats (Zeke)"
+      ],
+      "requires": "|Stray Cat Strut (MB)|"
+    },
+    {
+      "name": "Stray Cat - The Ironworks",
+      "region": "The Ironworks",
+      "category": [
+        "MB - Stray Cats (Zeke)"
+      ],
+      "requires": "|Stray Cat Strut (MB)|"
+    },
+    {
+      "name": "Stray Cat - Scotland Yard Roof",
+      "region": "Scotland Yard",
+      "category": [
+        "MB - Stray Cats (Zeke)"
+      ],
+      "requires": "|Stray Cat Strut (MB)|"
+    },
+    {
+      "name": "Stray Cat - Knight's Court",
+      "region": "Knight's Court",
+      "category": [
+        "MB - Stray Cats (Zeke)"
+      ],
+      "requires": "|Stray Cat Strut (MB)|"
+    },
+    {
+      "name": "Stray Cat - Newgate Prison",
+      "region": "Newgate Prison",
+      "category": [
+        "MB - Stray Cats (Zeke)"
+      ],
+      "requires": "|Stray Cat Strut (MB)|"
+    },
+    {
+      "name": "Stray Cat - Katzenstein's Lab",
+      "region": "Katzenstein's Lab",
+      "category": [
+        "MB - Stray Cats (Zeke)"
+      ],
+      "requires": "|Stray Cat Strut (MB)|"
+    },
+    {
+      "name": "Stray Cat - Big Ben",
+      "region": "Big Ben",
+      "category": [
+        "MB - Stray Cats (Zeke)"
+      ],
+      "requires": "|Stray Cat Strut (MB)|"
+    },
+    {
+      "name": "Create a Wizard (Get a School)",
+      "region": "The Commons",
+      "category": [
+        "!START HERE!"
+      ],
+      "requires": "",
+      "place_item_category": [
+        "Schools"
+      ]
+    },
+    {
+      "name": "[UW-01] Advanced Combat",
+      "region": "Unicorn Way Sidequests",
+      "category": [
+        "WC - Unicorn Way Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[UW-02] Pesky Pirates",
+      "region": "Unicorn Way Sidequests",
+      "category": [
+        "WC - Unicorn Way Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[UW-03] Yellow Brick Road",
+      "region": "Unicorn Way Sidequests",
+      "category": [
+        "WC - Unicorn Way Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[UW-04] Not In Kansas Anymore",
+      "region": "Unicorn Way Sidequests",
+      "category": [
+        "WC - Unicorn Way Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[UW-05] Saving Private O'Ryan",
+      "region": "Unicorn Way Sidequests",
+      "category": [
+        "WC - Unicorn Way Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[UW-06] Unlocking the Truth",
+      "region": "Unicorn Way Sidequests",
+      "category": [
+        "WC - Unicorn Way Side Quests"
+      ],
+      "requires": "|Triton Avenue Key|"
+    },
+    {
+      "name": "[TC-01] Live Tree or Die",
+      "region": "The Commons Sidequests",
+      "category": [
+        "WC - The Library Side Quests"
+      ],
+      "requires": "|Triton Avenue Key| AND |Firecat Alley Key| AND |Cyclops Lane Key| AND |Colossus Boulevard Key| AND |Book Quest (WC)|"
+    },
+    {
+      "name": "[FA-01] Problematic Casting",
+      "region": "Firecat Alley Sidequests",
+      "category": [
+        "WC - Firecat Alley Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[FA-02] ReRecover the Ring",
+      "region": "Firecat Alley Sidequests",
+      "category": [
+        "WC - Firecat Alley Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[FA-03] Cold Hard Steel",
+      "region": "Firecat Alley Sidequests",
+      "category": [
+        "WC - Firecat Alley Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[FA-04] Nightmare Time",
+      "region": "Firecat Alley Sidequests",
+      "category": [
+        "WC - Firecat Alley Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[FA-05] What's In a Pet Name?",
+      "region": "Firecat Alley Sidequests",
+      "category": [
+        "WC - Firecat Alley Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[TA-01] A Scrap of Trouble",
+      "region": "Triton Avenue Sidequests",
+      "category": [
+        "WC - Triton Avenue Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[TA-02] All the Eels",
+      "region": "Triton Avenue Sidequests",
+      "category": [
+        "WC - Triton Avenue Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[TA-03] Wayward Barrels",
+      "region": "Triton Avenue Sidequests",
+      "category": [
+        "WC - Triton Avenue Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[TA-04] Better Get Kraken",
+      "region": "Triton Avenue Sidequests",
+      "category": [
+        "WC - Triton Avenue Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[TA-05] Decease the Kraken!",
+      "region": "Triton Avenue Sidequests",
+      "category": [
+        "WC - Triton Avenue Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[TA-06] Haunting Questions",
+      "region": "Triton Avenue Sidequests",
+      "category": [
+        "WC - Triton Avenue Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[TA-07] Secret of the Cave",
+      "region": "Triton Avenue Sidequests",
+      "category": [
+        "WC - Triton Avenue Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[TA-08] Sniff 'em Out",
+      "region": "Triton Avenue Sidequests",
+      "category": [
+        "WC - Triton Avenue Side Quests"
+      ],
+      "requires": "|Pet License|"
+    },
+    {
+      "name": "[GC-01] Science Fair",
+      "region": "Golem Court",
+      "category": [
+        "WC - Golem Court Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[GC-02] Second Gear",
+      "region": "Golem Court",
+      "category": [
+        "WC - Golem Court Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[GC-03] The Final Piece",
+      "region": "Golem Court",
+      "category": [
+        "WC - Golem Court Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[GC-04] Say Cheese!",
+      "region": "Golem Court",
+      "category": [
+        "WC - Golem Court Quests"
+      ],
+      "requires": "|Triton Avenue Key|"
+    },
+    {
+      "name": "[GC-05] Ready, Aim, Shoot!",
+      "region": "Golem Court",
+      "category": [
+        "WC - Golem Court Quests"
+      ],
+      "requires": "|Triton Avenue Key|"
+    },
+    {
+      "name": "[RH-01] Hammering it Out",
+      "region": "Royal Hall Sidequests",
+      "category": [
+        "KT - Royal Hall Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[RH-02] Activate Them!",
+      "region": "Royal Hall Sidequests",
+      "category": [
+        "KT - Royal Hall Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[RH-03] Missing Notebook",
+      "region": "Royal Hall Sidequests",
+      "category": [
+        "KT - Royal Hall Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[RH-04] Deliver the Notebook",
+      "region": "Royal Hall Sidequests",
+      "category": [
+        "KT - Royal Hall Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[TO-17] A Task At Hand",
+      "region": "The Oasis Sidequests",
+      "category": [
+        "KT - The Oasis Side Quests"
+      ],
+      "requires": "|Royal Hall Key| AND |Royal Hall Side Quest Key|"
+    },
+    {
+      "name": "[RH-06] Find the Equipment",
+      "region": "Royal Hall Sidequests",
+      "category": [
+        "KT - Royal Hall Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[RH-07] Gather the List",
+      "region": "Royal Hall Sidequests",
+      "category": [
+        "KT - Royal Hall Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[RH-08] Reclaim the Past",
+      "region": "Royal Hall Sidequests",
+      "category": [
+        "KT - Royal Hall Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[CoF-01] Fire Drill",
+      "region": "Chamber of Fire Sidequests",
+      "category": [
+        "KT - Chamber of Fire Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[CoF-02] Free My People",
+      "region": "Chamber of Fire Sidequests",
+      "category": [
+        "KT - Chamber of Fire Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[CoF-03] Teach a Lesson",
+      "region": "Chamber of Fire Sidequests",
+      "category": [
+        "KT - Chamber of Fire Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[CoF-04] Secret Idol",
+      "region": "Chamber of Fire Sidequests",
+      "category": [
+        "KT - Chamber of Fire Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[CoF-05] Tool Time",
+      "region": "Chamber of Fire Sidequests",
+      "category": [
+        "KT - Chamber of Fire Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[PoF-01] Collecting Gems",
+      "region": "Palace of Fire Sidequests",
+      "category": [
+        "KT - Palace of Fire Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[PoF-02] Safe, Not Sorry",
+      "region": "Palace of Fire Sidequests",
+      "category": [
+        "KT - Palace of Fire Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[PoF-03] Desert Dessert",
+      "region": "Palace of Fire Sidequests",
+      "category": [
+        "KT - Palace of Fire Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[PoF-04] Fire Away!",
+      "region": "Palace of Fire Sidequests",
+      "category": [
+        "KT - Palace of Fire Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[PoF-05] Measure 'Em Up",
+      "region": "Palace of Fire Sidequests",
+      "category": [
+        "KT - Palace of Fire Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[PoF-06] So Many Nirini",
+      "region": "Palace of Fire Sidequests",
+      "category": [
+        "KT - Palace of Fire Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[PoF-07] Overdue Scrolls",
+      "region": "Palace of Fire Sidequests",
+      "category": [
+        "KT - Palace of Fire Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[GA-01] Father Dearest",
+      "region": "Grand Arena Sidequests",
+      "category": [
+        "KT - Grand Arena Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[GA-02] Trophy Quest",
+      "region": "Grand Arena Sidequests",
+      "category": [
+        "KT - Grand Arena Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[GA-03] Tie a Ribbon",
+      "region": "Grand Arena Sidequests",
+      "category": [
+        "KT - Grand Arena Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[GA-04] Continue the Legacy!",
+      "region": "Grand Arena Sidequests",
+      "category": [
+        "KT - Grand Arena Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[EH-01] The Greatest Warrior",
+      "region": "Entrance Hall Sidequests",
+      "category": [
+        "KT - Entrance Hall Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[EH-02] Hammer Time!",
+      "region": "Entrance Hall Sidequests",
+      "category": [
+        "KT - Entrance Hall Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[EH-03] Need Some Soul",
+      "region": "Entrance Hall Sidequests",
+      "category": [
+        "KT - Entrance Hall Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[EH-04] King of the Pit",
+      "region": "Entrance Hall Sidequests",
+      "category": [
+        "KT - Entrance Hall Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[TO-01] Color Blind",
+      "region": "The Oasis Sidequests",
+      "category": [
+        "KT - The Oasis Side Quests"
+      ],
+      "requires": "|Royal Hall Key|"
+    },
+    {
+      "name": "[TO-02] Thirst Day",
+      "region": "The Oasis Sidequests",
+      "category": [
+        "KT - The Oasis Side Quests"
+      ],
+      "requires": "|Royal Hall Key|"
+    },
+    {
+      "name": "[TO-03] Chamber Aid",
+      "region": "The Oasis Sidequests",
+      "category": [
+        "KT - The Oasis Side Quests"
+      ],
+      "requires": "|Royal Hall Key| AND |Chamber of Fire Key|"
+    },
+    {
+      "name": "[TO-04] Lucky Charmed",
+      "region": "The Oasis Sidequests",
+      "category": [
+        "KT - The Oasis Side Quests"
+      ],
+      "requires": "|Royal Hall Key| AND |Chamber of Fire Key|"
+    },
+    {
+      "name": "[TO-05] Gem In The Rough",
+      "region": "Krokosphinx",
+      "category": [
+        "KT - The Oasis Side Quests"
+      ],
+      "requires": "|The Oasis Side Quest Key|"
+    },
+    {
+      "name": "[TO-06] Trip to the Library",
+      "region": "The Oasis Sidequests",
+      "category": [
+        "KT - The Oasis Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[TO-07] Brief History of Time",
+      "region": "The Oasis Sidequests",
+      "category": [
+        "KT - The Oasis Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[TO-08] History's Lesson",
+      "region": "Trip to the Library",
+      "category": [
+        "KT - The Oasis Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[TO-09] Like Falling off a Glyph",
+      "region": "Trip to the Library",
+      "category": [
+        "KT - The Oasis Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[TO-10] Trip to the Altar",
+      "region": "Trip to the Library",
+      "category": [
+        "KT - The Oasis Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[TO-11] History Revealed",
+      "region": "Trip to the Library",
+      "category": [
+        "KT - The Oasis Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[TO-12] A Favor for Hetch",
+      "region": "Trip to the Library",
+      "category": [
+        "KT - The Oasis Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[TO-13] Inter Library Loan",
+      "region": "Trip to the Library",
+      "category": [
+        "KT - The Oasis Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[TO-14] Dig It!",
+      "region": "Trip to the Library",
+      "category": [
+        "KT - The Oasis Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[TO-15] Here Ya Go",
+      "region": "Trip to the Library",
+      "category": [
+        "KT - The Oasis Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[TO-16] Tome of the Fang",
+      "region": "Vault of Ice",
+      "category": [
+        "KT - The Oasis Side Quests"
+      ],
+      "requires": "|The Oasis Side Quest Key|"
+    },
+    {
+      "name": "[DFT-01] My Brother's Keeper",
+      "region": "Djeserit Sidequests",
+      "category": [
+        "KT - Djeserit Family Tomb Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[DFT-02] Gem Collector",
+      "region": "Djeserit Sidequests",
+      "category": [
+        "KT - Djeserit Family Tomb Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[DFT-03] Free At Last!",
+      "region": "Djeserit Sidequests",
+      "category": [
+        "KT - Djeserit Family Tomb Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[DFT-04] Test of Loyalty",
+      "region": "Djeserit Sidequests",
+      "category": [
+        "KT - Djeserit Family Tomb Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[DFT-05] Restless Spirits",
+      "region": "Djeserit Sidequests",
+      "category": [
+        "KT - Djeserit Family Tomb Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[DFT-06] The Two Tomes",
+      "region": "Djeserit Sidequests",
+      "category": [
+        "KT - Djeserit Family Tomb Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[DFT-07] Scavenge the Scavenger",
+      "region": "Djeserit Sidequests",
+      "category": [
+        "KT - Djeserit Family Tomb Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[DFT-08] In the Barracks",
+      "region": "Djeserit Sidequests",
+      "category": [
+        "KT - Well of Spirits Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[DFT-09] Tomb Raid",
+      "region": "Djeserit Sidequests",
+      "category": [
+        "KT - Well of Spirits Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[DFT-10] Tomb Town",
+      "region": "Djeserit Sidequests",
+      "category": [
+        "KT - Well of Spirits Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[DFT-11] Dem Bones",
+      "region": "Djeserit Sidequests",
+      "category": [
+        "KT - Well of Spirits Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[AFT-01] Burn, Mummy, Burn",
+      "region": "Ahnic Sidequests",
+      "category": [
+        "KT - Ahnic Family Tomb Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[AFT-02] Spirit Battle",
+      "region": "Ahnic Sidequests",
+      "category": [
+        "KT - Ahnic Family Tomb Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[AFT-03] Sanctify the Queen",
+      "region": "Ahnic Sidequests",
+      "category": [
+        "KT - Ahnic Family Tomb Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[AFT-04] The Return",
+      "region": "Ahnic Sidequests",
+      "category": [
+        "KT - Ahnic Family Tomb Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[AFT-05] The Bonekeeper",
+      "region": "Ahnic Sidequests",
+      "category": [
+        "KT - Ahnic Family Tomb Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[AFT-06] Bury the Bones",
+      "region": "Ahnic Sidequests",
+      "category": [
+        "KT - Ahnic Family Tomb Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KB-01] The Keys to Freedom",
+      "region": "Karanahn Sidequests",
+      "category": [
+        "KT - Karanahn Barracks Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KB-02] Strike the Chains",
+      "region": "Karanahn Sidequests",
+      "category": [
+        "KT - Karanahn Barracks Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KB-03] The Awakening",
+      "region": "Karanahn Sidequests",
+      "category": [
+        "KT - Karanahn Barracks Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KB-04] The Betrayer",
+      "region": "Karanahn Sidequests",
+      "category": [
+        "KT - Karanahn Barracks Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[DiS-01] Special Request",
+      "region": "Digmoore Station Sidequests",
+      "category": [
+        "MB - Digmoore Station Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[DiS-02] The Krok Express",
+      "region": "Digmoore Station Sidequests",
+      "category": [
+        "MB - Digmoore Station Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[DiS-03] Next Round",
+      "region": "Digmoore Station Sidequests",
+      "category": [
+        "MB - Digmoore Station Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[DiS-04] Under the Weather",
+      "region": "Digmoore Station Sidequests",
+      "category": [
+        "MB - Digmoore Station Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[DiS-05] Down in the Park",
+      "region": "Digmoore Station Sidequests",
+      "category": [
+        "MB - Digmoore Station Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[DiS-06] Water Collection",
+      "region": "Digmoore Station Sidequests",
+      "category": [
+        "MB - Digmoore Station Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[DiS-07] Final Delivery",
+      "region": "Digmoore Station Sidequests",
+      "category": [
+        "MB - Digmoore Station Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[HP-01] Box from Krok",
+      "region": "Hyde Park Sidequests",
+      "category": [
+        "MB - Hyde Park Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[HP-02] Scarfing It Up",
+      "region": "Hyde Park Sidequests",
+      "category": [
+        "MB - Hyde Park Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[HP-03] Reckless Necklace",
+      "region": "Hyde Park Sidequests",
+      "category": [
+        "MB - Hyde Park Side Quests"
+      ],
+      "requires": "|Chelsea Court Key|"
+    },
+    {
+      "name": "[HP-04] Crazy Cats",
+      "region": "Hyde Park Sidequests",
+      "category": [
+        "MB - Hyde Park Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[HP-05] More Crazy Cats",
+      "region": "Hyde Park Sidequests",
+      "category": [
+        "MB - Hyde Park Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[HP-06] Leader of the Pack",
+      "region": "Hyde Park Sidequests",
+      "category": [
+        "MB - Hyde Park Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[HP-07] Flower Fiends",
+      "region": "Hyde Park Sidequests",
+      "category": [
+        "MB - Hyde Park Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[HP-08] Bring Back the Blossom",
+      "region": "Hyde Park Sidequests",
+      "category": [
+        "MB - Hyde Park Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[HP-09] Watch Your Step!",
+      "region": "Hyde Park Sidequests",
+      "category": [
+        "MB - Hyde Park Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[HP-10] Crime Reporting",
+      "region": "Hyde Park Sidequests",
+      "category": [
+        "MB - Hyde Park Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[HP-11] When it Rains...",
+      "region": "Hyde Park Sidequests",
+      "category": [
+        "MB - Hyde Park Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[HP-12] It Pours",
+      "region": "Hyde Park Sidequests",
+      "category": [
+        "MB - Hyde Park Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[CC-01] A Test of Metal",
+      "region": "Chelsea Court Sidequests",
+      "category": [
+        "MB - Chelsea Court Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[CC-02] The Key Component",
+      "region": "Chelsea Court Sidequests",
+      "category": [
+        "MB - Chelsea Court Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[CC-03] There Goes the Hood",
+      "region": "Chelsea Court Sidequests",
+      "category": [
+        "MB - Chelsea Court Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[RS-17] Time of Death",
+      "region": "Chelsea Court Sidequests",
+      "category": [
+        "MB - Regent's Square Side Quests"
+      ],
+      "requires": "|Regent's Square Side Quest Key|"
+    },
+    {
+      "name": "[RS-18] Glass in Pocket",
+      "region": "Chelsea Court Sidequests",
+      "category": [
+        "MB - Regent's Square Side Quests"
+      ],
+      "requires": "|Regent's Square Side Quest Key|"
+    },
+    {
+      "name": "[RS-19] Sands of Time",
+      "region": "Chelsea Court Sidequests",
+      "category": [
+        "MB - Regent's Square Side Quests"
+      ],
+      "requires": "|Regent's Square Side Quest Key|"
+    },
+    {
+      "name": "[RS-20] Time After Time",
+      "region": "Chelsea Court Sidequests",
+      "category": [
+        "MB - Regent's Square Side Quests"
+      ],
+      "requires": "|Regent's Square Side Quest Key|"
+    },
+    {
+      "name": "[NP-01] Cleaning House",
+      "region": "Newgate Prison Sidequests",
+      "category": [
+        "MB - Newgate Prison Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[NP-02] Back Behind Bars",
+      "region": "Newgate Prison Sidequests",
+      "category": [
+        "MB - Newgate Prison Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[NP-03] Thick With Thieves",
+      "region": "Newgate Prison Sidequests",
+      "category": [
+        "MB - Newgate Prison Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[NP-04] Trap the Thug",
+      "region": "Newgate Prison Sidequests",
+      "category": [
+        "MB - Newgate Prison Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[NP-05] Street Sweeping",
+      "region": "Newgate Prison Sidequests",
+      "category": [
+        "MB - Newgate Prison Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[NP-06] Take Him Down!",
+      "region": "Newgate Prison Sidequests",
+      "category": [
+        "MB - Newgate Prison Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[RS-01] As the Bone Turns",
+      "region": "Regent's Square Sidequests",
+      "category": [
+        "MB - Regent's Square Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[RS-02] Young and the Boneless",
+      "region": "Regent's Square Sidequests",
+      "category": [
+        "MB - Regent's Square Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[RS-03] Bone and the Beautiful",
+      "region": "Regent's Square Sidequests",
+      "category": [
+        "MB - Regent's Square Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[RS-04] Extra Reading",
+      "region": "Regent's Square Sidequests",
+      "category": [
+        "MB - Regent's Square Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[RS-05] It's Not Here",
+      "region": "Regent's Square Sidequests",
+      "category": [
+        "MB - Regent's Square Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[RS-06] Book Crooks",
+      "region": "Regent's Square Sidequests",
+      "category": [
+        "MB - Regent's Square Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[RS-07] Another Delivery",
+      "region": "Regent's Square Sidequests",
+      "category": [
+        "MB - Regent's Square Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[RS-08] Mail Call",
+      "region": "Regent's Square",
+      "category": [
+        "MB - Regent's Square Side Quests"
+      ],
+      "requires": "|Regent's Square Side Quest Key|"
+    },
+    {
+      "name": "[RS-09] Speedy Delivery",
+      "region": "Regent's Square",
+      "category": [
+        "MB - Regent's Square Side Quests"
+      ],
+      "requires": "|Regent's Square Side Quest Key|"
+    },
+    {
+      "name": "[RS-10] Policemen's Ball",
+      "region": "Regent's Square Sidequests",
+      "category": [
+        "MB - Regent's Square Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[RS-11] Party Planning",
+      "region": "Regent's Square Sidequests",
+      "category": [
+        "MB - Regent's Square Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[RS-12] Invitation to the Ball",
+      "region": "Regent's Square Sidequests",
+      "category": [
+        "MB - Regent's Square Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[RS-13] Given 'Em the Brush",
+      "region": "Regent's Square Sidequests",
+      "category": [
+        "MB - Regent's Square Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[RS-14] Policemen's Ball 2",
+      "region": "Regent's Square Sidequests",
+      "category": [
+        "MB - Regent's Square Side Quests"
+      ],
+      "requires": "|Newgate Prison Key|"
+    },
+    {
+      "name": "[RS-15] Party Smarty!",
+      "region": "Regent's Square Sidequests",
+      "category": [
+        "MB - Regent's Square Side Quests"
+      ],
+      "requires": "|Newgate Prison Key| AND |Knight's Court Key|"
+    },
+    {
+      "name": "[RS-16] Fiddle Riddle",
+      "region": "Regent's Square Sidequests",
+      "category": [
+        "MB - Regent's Square Side Quests"
+      ],
+      "requires": "|Newgate Prison Key| AND |Knight's Court Key|"
+    },
+    {
+      "name": "History Book 1 - Hyde Park",
+      "region": "Hyde Park",
+      "category": [
+        "MB - Book Quest"
+      ],
+      "requires": "|Book Quest (MB)|"
+    },
+    {
+      "name": "History Book 2 - Chelsea Court",
+      "region": "Chelsea Court",
+      "category": [
+        "MB - Book Quest"
+      ],
+      "requires": "|Book Quest (MB)|"
+    },
+    {
+      "name": "History Book 3 - The Ironworks",
+      "region": "The Ironworks",
+      "category": [
+        "MB - Book Quest"
+      ],
+      "requires": "|Book Quest (MB)|"
+    },
+    {
+      "name": "History Book 4 - Newgate Prison",
+      "region": "Newgate Prison",
+      "category": [
+        "MB - Book Quest"
+      ],
+      "requires": "|Book Quest (MB)|"
+    },
+    {
+      "name": "History Book 5 - Knight's Court",
+      "region": "Knight's Court",
+      "category": [
+        "MB - Book Quest"
+      ],
+      "requires": "|Book Quest (MB)|"
+    },
+    {
+      "name": "History Book 6 - Katzenstein's Lab",
+      "region": "Katzenstein's Lab",
+      "category": [
+        "MB - Book Quest"
+      ],
+      "requires": "|Book Quest (MB)|"
+    },
+    {
+      "name": "History Book 7 - Big Ben",
+      "region": "Big Ben",
+      "category": [
+        "MB - Book Quest"
+      ],
+      "requires": "|Book Quest (MB)|"
+    },
+    {
+      "name": "[KC-01] Catnapped!",
+      "region": "Knight's Court Sidequests",
+      "category": [
+        "MB - Knight's Court Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KC-02] Damsel in Distress",
+      "region": "Knight's Court Sidequests",
+      "category": [
+        "MB - Knight's Court Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KC-03] Cats and the Hat",
+      "region": "Knight's Court Sidequests",
+      "category": [
+        "MB - Knight's Court Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KC-04] The Jacket Racket",
+      "region": "Knight's Court Sidequests",
+      "category": [
+        "MB - Knight's Court Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KC-05] The Purse Curse",
+      "region": "Knight's Court Sidequests",
+      "category": [
+        "MB - Knight's Court Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KC-06] The Purse Curse 2",
+      "region": "Knight's Court Sidequests",
+      "category": [
+        "MB - Knight's Court Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KC-07] Law and Disorder",
+      "region": "Knight's Court Sidequests",
+      "category": [
+        "MB - Knight's Court Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KC-08] Troll Patrol",
+      "region": "Knight's Court Sidequests",
+      "category": [
+        "MB - Knight's Court Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KC-09] Sweeping Sickness",
+      "region": "Knight's Court Sidequests",
+      "category": [
+        "MB - Knight's Court Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KC-10] Lose the Looters",
+      "region": "Knight's Court Sidequests",
+      "category": [
+        "MB - Knight's Court Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KC-11] Recover the Goods",
+      "region": "Knight's Court Sidequests",
+      "category": [
+        "MB - Knight's Court Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KC-12] Arachnophobia",
+      "region": "Knight's Court Sidequests",
+      "category": [
+        "MB - Knight's Court Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KC-13] Off With Her Head!",
+      "region": "Knight's Court Sidequests",
+      "category": [
+        "MB - Knight's Court Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[SY-01] Piece of Mime",
+      "region": "Scotland Yard Sidequests",
+      "category": [
+        "MB - Scotland Yard Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[SY-02] State of Mime",
+      "region": "Scotland Yard Sidequests",
+      "category": [
+        "MB - Scotland Yard Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[SY-03] Bastille Buddy",
+      "region": "Scotland Yard Sidequests",
+      "category": [
+        "MB - Scotland Yard Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[SY-04] Liberty!",
+      "region": "Scotland Yard Sidequests",
+      "category": [
+        "MB - Scotland Yard Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[SY-05] Take a Bite Out",
+      "region": "Scotland Yard Sidequests",
+      "category": [
+        "MB - Scotland Yard Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[SY-06] Neighborhood Watch",
+      "region": "Scotland Yard Sidequests",
+      "category": [
+        "MB - Scotland Yard Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[SY-07] Clean Sweep",
+      "region": "Scotland Yard Sidequests",
+      "category": [
+        "MB - Scotland Yard Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KT-61] The Four Princes",
+      "region": "Karanahn Barracks",
+      "category": [
+        "*World 2 - Krokotopia Storyline*"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "History of Magic 1 - Unicorn Way",
+      "region": "Unicorn Way Sidequests",
+      "category": [
+        "WC - Book Quest"
+      ],
+      "requires": "|Book Quest (WC)|"
+    },
+    {
+      "name": "History of Magic 2 - Cyclops Lane",
+      "region": "Cyclops Lane",
+      "category": [
+        "WC - Book Quest"
+      ],
+      "requires": "|Book Quest (WC)|"
+    },
+    {
+      "name": "History of Magic 3 - Firecat Alley",
+      "region": "Firecat Alley",
+      "category": [
+        "WC - Book Quest"
+      ],
+      "requires": "|Book Quest (WC)|"
+    },
+    {
+      "name": "History of Magic 4 - Triton Avenue",
+      "region": "Triton Avenue",
+      "category": [
+        "WC - Book Quest"
+      ],
+      "requires": "|Book Quest (WC)|"
+    },
+    {
+      "name": "History of Magic 6 - Haunted Cave",
+      "region": "Haunted Cave",
+      "category": [
+        "WC - Book Quest"
+      ],
+      "requires": "|Book Quest (WC)| AND |Firecat Alley Key| AND |Cyclops Lane Key|"
+    },
+    {
+      "name": "History of Magic 5 - Olde Town",
+      "region": "Olde Town",
+      "category": [
+        "WC - Book Quest"
+      ],
+      "requires": "|Book Quest (WC)| AND |Firecat Alley Key| AND |Cyclops Lane Key| AND |Triton Avenue Key|"
+    },
+    {
+      "name": "History of Magic 7 - Colossus Boulevard",
+      "region": "Colossus Boulevard",
+      "category": [
+        "WC - Book Quest"
+      ],
+      "requires": "|Book Quest (WC)|"
+    },
+    {
+      "region": "Cyclops Lane Sidequests",
+      "name": "[CL-01] Dont Need the Trolls",
+      "category": [
+        "WC - Cyclops Lane Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[CL-02] Faire Thee Well",
+      "region": "Cyclops Lane Sidequests",
+      "category": [
+        "WC - Cyclops Lane Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[SD-01] The Power is Ours",
+      "region": "Cyclops Lane Sidequests",
+      "category": [
+        "WC - Shopping District Side Quests"
+      ],
+      "requires": "|Triton Avenue Key|"
+    },
+    {
+      "name": "[CL-03] Mad Maximus",
+      "region": "Cyclops Lane Sidequests",
+      "category": [
+        "WC - Cyclops Lane Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[CL-04] Mazes and Minotaurs",
+      "region": "Cyclops Lane Sidequests",
+      "category": [
+        "WC - Cyclops Lane Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[CL-05] Mostly Armorless",
+      "region": "Cyclops Lane Sidequests",
+      "category": [
+        "WC - Cyclops Lane Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[CL-06] You Can Dig It",
+      "region": "Cyclops Lane Sidequests",
+      "category": [
+        "WC - Cyclops Lane Side Quests"
+      ],
+      "requires": "|Pet License|"
+    },
+    {
+      "name": "[OT-01] Looking Sharp!",
+      "region": "Olde Town Sidequests",
+      "category": [
+        "WC - Olde Town Side Quests"
+      ],
+      "requires": "|Firecat Alley Key| AND |Triton Avenue Key| AND |Cyclops Lane Key|"
+    },
+    {
+      "name": "[OT-02] Walkabout",
+      "region": "Olde Town Sidequests",
+      "category": [
+        "WC - Olde Town Side Quests"
+      ],
+      "requires": "|Golem Court Key|"
+    },
+    {
+      "name": "[TC-02] City Tour",
+      "region": "The Commons Sidequests",
+      "category": [
+        "WC - The Commons Side Quests"
+      ],
+      "requires": "|Golem Court Key|"
+    },
+    {
+      "name": "[TC-03] Diego the Duelmaster",
+      "region": "The Commons Sidequests",
+      "category": [
+        "WC - The Commons Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[TC-04] Hey, Penny",
+      "region": "The Commons Sidequests",
+      "category": [
+        "WC - The Commons Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[TC-05] Dreadful Assignment",
+      "region": "The Commons Sidequests",
+      "category": [
+        "WC - The Commons Side Quests"
+      ],
+      "requires": "|Triton Avenue Key|"
+    },
+    {
+      "name": "[TC-06] Penny For Your Thoughts",
+      "region": "The Commons Sidequests",
+      "category": [
+        "WC - The Commons Side Quests"
+      ],
+      "requires": "|Triton Avenue Key| AND (|Firecat Alley Key| OR |Cyclops Lane Key|)"
+    },
+    {
+      "name": "[TC-07] Spellements101",
+      "region": "The Oasis",
+      "category": [
+        "WC - The Commons Side Quests"
+      ],
+      "requires": "|The Commons Side Quest Key|"
+    },
+    {
+      "name": "[TO-18] Updating the News",
+      "region": "The Oasis Sidequests",
+      "category": [
+        "KT - The Oasis Side Quests"
+      ],
+      "requires": "|Royal Hall Key| AND |Chamber of Fire Key| AND |Palace of Fire Key|"
+    },
+    {
+      "name": "[TC-08] Sell Out",
+      "region": "The Oasis Sidequests",
+      "category": [
+        "WC - The Commons Side Quests"
+      ],
+      "requires": "|The Commons Side Quest Key| AND |Royal Hall Key| AND |Chamber of Fire Key| AND |Palace of Fire Key|"
+    },
+    {
+      "name": "[TC-09] Raging Rumors",
+      "region": "The Oasis Sidequests",
+      "category": [
+        "WC - The Commons Side Quests"
+      ],
+      "requires": "|The Commons Side Quest Key| AND |Royal Hall Key| AND |Chamber of Fire Key| AND |Palace of Fire Key|"
+    },
+    {
+      "name": "[RW-01] What's in Store",
+      "region": "The Oasis Sidequests",
+      "category": [
+        "WC - Ravenwood Side Quests"
+      ],
+      "requires": "|Royal Hall Key| AND |Royal Hall Side Quest Key|"
+    },
+    {
+      "name": "[SD-02] Finding the Fire",
+      "region": "The Oasis Sidequests",
+      "category": [
+        "WC - Shopping District Side Quests"
+      ],
+      "requires": "|Royal Hall Key| AND |Royal Hall Side Quest Key| AND |Golem Court Key|"
+    },
+    {
+      "name": "Play Dance Game",
+      "region": "Pet Pavilion",
+      "category": [
+        "Activities - Pet Training"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Play Cannon Game",
+      "region": "Pet Pavilion",
+      "category": [
+        "Activities - Pet Training"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Play Gobbler Drop",
+      "region": "Pet Pavilion",
+      "category": [
+        "Activities - Pet Training"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Play Maze Game",
+      "region": "Pet Pavilion",
+      "category": [
+        "Activities - Pet Training"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Play Grumpy Gobblers",
+      "region": "Pet Pavilion",
+      "category": [
+        "Activities - Pet Training"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Play Way of the Ninja Pig",
+      "region": "Pet Pavilion",
+      "category": [
+        "Activities - Pet Training"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[TO-19] Lost Beagle",
+      "region": "Kembaalung Village",
+      "category": [
+        "KT - The Oasis Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[TO-20] Carry That Wheat",
+      "region": "Kembaalung Village",
+      "category": [
+        "KT - The Oasis Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[TO-21] Charter the Dragon",
+      "region": "Kembaalung Village",
+      "category": [
+        "KT - The Oasis Side Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KV-01] The Attaché Case",
+      "region": "Kembaalung Village",
+      "category": [
+        "KT - Kembaalung Village Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KV-02] The Path of Harmony",
+      "region": "Kembaalung Village",
+      "category": [
+        "KT - Kembaalung Village Quests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "[KV-03] Harmony v. Discord",
+      "region": "Kembaalung Village",
+      "category": [
+        "KT - Kembaalung Village Quests"
+      ],
+      "requires": ""
+    }
+  ]
+}

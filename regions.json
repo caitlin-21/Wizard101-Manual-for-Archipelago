@@ -1,0 +1,427 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
+  "The Commons": {
+    "starting": true,
+    "connects_to": [
+      "Unicorn Way",
+      "Shopping District",
+      "Ravenwood",
+      "Golem Court",
+      "Pet Pavilion",
+      "Nightside",
+      "The Commons Sidequests"
+    ],
+    "requires": ""
+  },
+  "Unicorn Way": {
+    "connects_to": [
+      "Unicorn Way Sidequests"
+    ],
+    "requires": ""
+  },
+  "Shopping District": {
+    "connects_to": [
+      "Olde Town"
+    ],
+    "requires": ""
+  },
+  "Golem Court": {
+    "connects_to": [],
+    "requires": "|Golem Court Key|"
+  },
+  "Ravenwood": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Pet Pavilion": {
+    "connects_to": [],
+    "requires": "|Pet License|"
+  },
+  "World Tree": {
+    "connects_to": [
+      "The Oasis",
+      "Colossus Boulevard"
+    ],
+    "requires": "|Triton Avenue Key| AND |Cyclops Lane Key| AND |Firecat Alley Key|"
+  },
+  "The Oasis": {
+    "connects_to": [
+      "Altar of Kings",
+      "The Oasis Sidequests",
+      "Northguard Alternate Route"
+    ],
+    "requires": "|Progressive Spiral Door Key|"
+  },
+  "Regent's Square": {
+    "connects_to": [
+      "Digmoore Station"
+    ],
+    "requires": "|Progressive Spiral Door Key:2|"
+  },
+  "Jade Palace": {
+    "connects_to": [
+      "The Basilica"
+    ],
+    "requires": "|Progressive Spiral Door Key:3|"
+  },
+  "The Basilica": {
+    "connects_to": [],
+    "requires": "|Progressive Spiral Door Key:4|"
+  },
+  "Northguard": {
+    "connects_to": [
+      "Savarstaad Pass"
+    ],
+    "requires": "|Grizzleheim World Key|"
+  },
+  "Pigswick Academy": {
+    "connects_to": [],
+    "requires": "|Wysteria World Key|"
+  },
+  "Olde Town": {
+    "connects_to": [
+      "Firecat Alley",
+      "Triton Avenue",
+      "Cyclops Lane",
+      "Olde Town Sidequests"
+    ],
+    "requires": "|Progressive Pip Cost:2|"
+  },
+  "Colossus Boulevard": {
+    "connects_to": [],
+    "requires": "|Colossus Boulevard Key|"
+  },
+  "Firecat Alley": {
+    "connects_to": [
+      "Dark Cave",
+      "Firecat Alley Sidequests"
+    ],
+    "requires": "|Firecat Alley Key|"
+  },
+  "Cyclops Lane": {
+    "connects_to": [
+      "Dark Cave",
+      "Cyclops Lane Sidequests"
+    ],
+    "requires": "|Cyclops Lane Key|"
+  },
+  "Triton Avenue": {
+    "connects_to": [
+      "Haunted Cave",
+      "Triton Avenue Sidequests"
+    ],
+    "requires": "|Triton Avenue Key|"
+  },
+  "Dark Cave": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Haunted Cave": {
+    "connects_to": [
+      "World Tree"
+    ],
+    "requires": "|Progressive Pip Cost:3|"
+  },
+  "Nightside": {
+    "connects_to": [],
+    "requires": "|Triton Avenue Key| AND |Cyclops Lane Key| AND |Firecat Alley Key|"
+  },
+  "Altar of Kings": {
+    "connects_to": [
+      "Royal Hall"
+    ],
+    "requires": ""
+  },
+  "Well of Spirits": {
+    "connects_to": [
+      "Ahnic Family Tomb"
+    ],
+    "requires": ""
+  },
+  "Krokosphinx": {
+    "connects_to": [
+      "Hall of Champions"
+    ],
+    "requires": "|Royal Hall Key| AND |Chamber of Fire Key| AND |Palace of Fire Key|"
+  },
+  "Royal Hall": {
+    "connects_to": [
+      "Chamber of Fire",
+      "Royal Hall Sidequests"
+    ],
+    "requires": "|Royal Hall Key|"
+  },
+  "Chamber of Fire": {
+    "connects_to": [
+      "Palace of Fire",
+      "Chamber of Fire Sidequests"
+    ],
+    "requires": "|Chamber of Fire Key|"
+  },
+  "Palace of Fire": {
+    "connects_to": [
+      "Krokosphinx",
+      "Palace of Fire Sidequests"
+    ],
+    "requires": "|Palace of Fire Key|"
+  },
+  "Kembaalung Village": {
+    "connects_to": [],
+    "requires": "|Kembaalung Village Key| "
+  },
+  "Hall of Champions": {
+    "connects_to": [
+      "Grand Arena"
+    ],
+    "requires": "|Hall of Champions Key|"
+  },
+  "Grand Arena": {
+    "connects_to": [
+      "Vault of Ice",
+      "Grand Arena Sidequests"
+    ],
+    "requires": "|Grand Arena Key|"
+  },
+  "Ahnic Family Tomb": {
+    "connects_to": [
+      "Djeserit Family Tomb",
+      "Ahnic Sidequests"
+    ],
+    "requires": "|Ahnic Family Tomb Key|"
+  },
+  "Djeserit Family Tomb": {
+    "connects_to": [
+      "Karanahn Barracks",
+      "Djeserit Sidequests"
+    ],
+    "requires": "|Djeserit Family Tomb Key|"
+  },
+  "Karanahn Barracks": {
+    "connects_to": [
+      "Regent's Square",
+      "Karanahn Sidequests"
+    ],
+    "requires": "|Karanahn Barracks Key|"
+  },
+  "Digmoore Station": {
+    "connects_to": [
+      "Hyde Park",
+      "Digmoore Station Sidequests"
+    ],
+    "requires": ""
+  },
+  "Hyde Park": {
+    "connects_to": [
+      "Chelsea Court",
+      "Hyde Park Sidequests"
+    ],
+    "requires": "|Hyde Park Key|"
+  },
+  "Vault of Ice": {
+    "connects_to": [
+      "Emperor's Retreat",
+      "Entrance Hall Sidequests"
+    ],
+    "requires": ""
+  },
+  "Emperor's Retreat": {
+    "connects_to": [
+      "Well of Spirits"
+    ],
+    "requires": ""
+  },
+  "Chelsea Court": {
+    "connects_to": [
+      "The Ironworks",
+      "Chelsea Court Sidequests",
+      "Northguard"
+    ],
+    "requires": "|Chelsea Court Key|"
+  },
+  "The Ironworks": {
+    "connects_to": [
+      "Scotland Yard",
+      "Regent's Square Sidequests"
+    ],
+    "requires": "|Progressive Pip Cost:4|"
+  },
+  "Scotland Yard": {
+    "connects_to": [
+      "Newgate Prison",
+      "Kembaalung Village",
+      "Pigswick Academy",
+      "Scotland Yard Sidequests"
+    ],
+    "requires": ""
+  },
+  "Newgate Prison": {
+    "connects_to": [
+      "Knight's Court",
+      "Newgate Prison Sidequests"
+    ],
+    "requires": "|Newgate Prison Key|"
+  },
+  "Knight's Court": {
+    "connects_to": [
+      "Katzenstein's Lab",
+      "Knight's Court Sidequests"
+    ],
+    "requires": "|Knight's Court Key|"
+  },
+  "Katzenstein's Lab": {
+    "connects_to": [
+      "Royal Museum"
+    ],
+    "requires": ""
+  },
+  "Royal Museum": {
+    "connects_to": [
+      "Counterweight East",
+      "Counterweight West",
+      "Big Ben"
+    ],
+    "requires": "|Royal Museum Key|"
+  },
+  "Counterweight East": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Counterweight West": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Big Ben": {
+    "connects_to": [
+      "Jade Palace"
+    ],
+    "requires": ""
+  },
+  "Savarstaad Pass": {
+    "connects_to": [
+      "Vigrid Roughland"
+    ],
+    "requires": "|Savarstaad Pass Key| AND |Progressive Pip Cost:4|"
+  },
+  "Vigrid Roughland": {
+    "connects_to": [
+      "Frostholm"
+    ],
+    "requires": "|Vigrid Roughland Key|"
+  },
+  "Mirkholm Keep": {
+    "connects_to": [],
+    "requires": "|Mirkholm Keep Key|"
+  },
+  "The Commons Sidequests": {
+    "connects_to": [],
+    "requires": "|The Commons Side Quest Key|"
+  },
+  "Unicorn Way Sidequests": {
+    "connects_to": [],
+    "requires": "|Unicorn Way Side Quest Key|"
+  },
+  "Firecat Alley Sidequests": {
+    "connects_to": [],
+    "requires": "|Firecat Alley Side Quest Key|"
+  },
+  "Cyclops Lane Sidequests": {
+    "connects_to": [],
+    "requires": "|Cyclops Lane Side Quest Key|"
+  },
+  "Triton Avenue Sidequests": {
+    "connects_to": [],
+    "requires": "|Triton Avenue Side Quest Key|"
+  },
+  "Frostholm": {
+    "connects_to": [
+      "Mirkholm Keep"
+    ],
+    "requires": ""
+  },
+  "Royal Hall Sidequests": {
+    "connects_to": [],
+    "requires": "|Royal Hall Side Quest Key|"
+  },
+  "Chamber of Fire Sidequests": {
+    "connects_to": [],
+    "requires": "|Chamber of Fire Side Quest Key|"
+  },
+  "Palace of Fire Sidequests": {
+    "connects_to": [],
+    "requires": "|Palace of Fire Side Quest Key|"
+  },
+  "Grand Arena Sidequests": {
+    "connects_to": [],
+    "requires": "|Grand Arena Side Quest Key|"
+  },
+  "Entrance Hall Sidequests": {
+    "connects_to": [],
+    "requires": "|Entrance Hall Side Quest Key|"
+  },
+  "The Oasis Sidequests": {
+    "connects_to": [
+      "Trip to the Library"
+    ],
+    "requires": "|The Oasis Side Quest Key|"
+  },
+  "Djeserit Sidequests": {
+    "connects_to": [
+      "Well of Spirits Sidequests"
+    ],
+    "requires": "|Djeserit Family Tomb Side Quest Key|"
+  },
+  "Ahnic Sidequests": {
+    "connects_to": [],
+    "requires": "|Ahnic Family Tomb Side Quest Key| AND |Djeserit Family Tomb Key|"
+  },
+  "Karanahn Sidequests": {
+    "connects_to": [],
+    "requires": "|Karanahn Barracks Side Quest Key|"
+  },
+  "Trip to the Library": {
+    "connects_to": [],
+    "requires": "|Chamber of Fire Key| AND |Royal Hall Key|"
+  },
+  "Digmoore Station Sidequests": {
+    "connects_to": [],
+    "requires": "|Digmoore Station Side Quest Key|"
+  },
+  "Hyde Park Sidequests": {
+    "connects_to": [],
+    "requires": "|Hyde Park Side Quest Key|"
+  },
+  "Chelsea Court Sidequests": {
+    "connects_to": [],
+    "requires": "|Chelsea Court Side Quest Key|"
+  },
+  "Scotland Yard Sidequests": {
+    "connects_to": [],
+    "requires": "|Scotland Yard Side Quest Key|"
+  },
+  "Newgate Prison Sidequests": {
+    "connects_to": [],
+    "requires": "|Newgate Prison Side Quest Key|"
+  },
+  "Knight's Court Sidequests": {
+    "connects_to": [],
+    "requires": "|Knight's Court Side Quest Key|"
+  },
+  "Regent's Square Sidequests": {
+    "connects_to": [],
+    "requires": "|Regent's Square Side Quest Key|"
+  },
+  "Well of Spirits Sidequests": {
+    "connects_to": [],
+    "requires": "|Well of Spirits Side Quest Key|"
+  },
+  "Olde Town Sidequests": {
+    "connects_to": [],
+    "requires": "|Olde Town Side Quest Key|"
+  },
+  "Northguard Alternate Route": {
+    "connects_to": [
+      "Northguard"
+    ],
+    "requires": "|Pet License| AND |Progressive Pip Cost:3|"
+  }
+}
