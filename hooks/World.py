@@ -95,13 +95,14 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
     # Some other useful hook options:
 
     ## Place an item at a specific location
-    # location = next(l for l in multiworld.get_unfilled_locations(player=player) if l.name == "Location Name")
-    # item_to_place = next(i for i in item_pool if i.name == "Item Name")
-    # location.place_locked_item(item_to_place)
-    # remove_specific_item(item_pool, item_to_place)
+    #location = next(l for l in multiworld.get_unfilled_locations(player=player) if l.name == "Create a Wizard (Get a School)")
+    #item_to_place = next(i for i in item_pool if i.name == school)
+    #location.place_locked_item(item_to_place)
+    #remove_specific_item(item_pool, item_to_place)
 
 # The complete item pool prior to being set for generation is provided here, in case you want to make changes to it
 def after_create_items(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
+
     return item_pool
 
 # Called before rules for accessing regions and locations are created. Not clear why you'd want this, but it's here.
@@ -138,6 +139,14 @@ def after_create_item(item: ManualItem, world: World, multiworld: MultiWorld, pl
 
 # This method is run towards the end of pre-generation, before the place_item options have been handled and before AP generation occurs
 def before_generate_basic(world: World, multiworld: MultiWorld, player: int):
+    
+    if world.options.early_mount == 0:
+        world.multiworld.local_early_items[world.player]["Mount License"] = 1
+    elif world.options.early_mount == 1:
+        world.multiworld.early_items[world.player]["Mount License"] = 1
+    elif world.options.early_mount == 2:
+        pass
+
     pass
 
 # This method is run at the very end of pre-generation, once the place_item options have been handled and before AP generation occurs

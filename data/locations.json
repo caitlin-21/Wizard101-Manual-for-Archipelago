@@ -3632,6 +3632,1302 @@
         "Kembaalung"
       ],
       "requires": ""
+    },
+    {
+      "name": "Lost Soul",
+      "region": "Unicorn Way",
+      "category": [
+        "Wizard City Enemies",
+        "WC - Unicorn Way Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Skeletal Pirate",
+      "region": "Unicorn Way",
+      "category": [
+        "Wizard City Enemies",
+        "WC - Unicorn Way Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Dark Fairy",
+      "region": "Unicorn Way",
+      "category": [
+        "Wizard City Enemies",
+        "WC - Unicorn Way Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Skeletal Corsair (Lady Blackhope Minion)",
+      "region": "Unicorn Way Sidequests",
+      "category": [
+        "Wizard City Enemies",
+        "WC - Unicorn Way Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Rattlebones",
+      "region": "Unicorn Way",
+      "category": [
+        "Wizard City Enemies",
+        "WC - Unicorn Way Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Lady Blackhope",
+      "region": "Unicorn Way Sidequests",
+      "category": [
+        "Wizard City Enemies",
+        "WC - Unicorn Way Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Wooden Construct",
+      "region": "Golem Court",
+      "category": [
+        "Wizard City Enemies",
+        "WC - Golem Court Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Clockwork Golem",
+      "region": "Golem Court",
+      "category": [
+        "Wizard City Enemies",
+        "WC - Golem Court Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Iron Golem",
+      "region": "Golem Court",
+      "category": [
+        "Wizard City Enemies",
+        "WC - Golem Court Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Foulgaze",
+      "region": "Olde Town",
+      "category": [
+        "Wizard City Enemies",
+        "WC - Olde Town Enemies"
+      ],
+      "requires": "|Triton Avenue Key| AND |Cyclops Lane Key| AND |Firecat Alley Key|"
+    },
+    {
+      "name": "Haunted Minion",
+      "region": "Olde Town",
+      "category": [
+        "Wizard City Enemies",
+        "WC - Olde Town Enemies",
+        "WC-Triton Avenue Enemies",
+        "WC-Firecat Alley Enemies",
+        "WC-Dark Cave Enemies"
+      ],
+      "requires": "|Triton Avenue Key| OR |Cyclops Lane Key| OR |Firecat Alley Key|"
+    },
+    {
+      "name": "Roberto",
+      "region": "Olde Town",
+      "category": [
+        "Wizard City Enemies",
+        "WC - Olde Town Enemies"
+      ],
+      "requires": "|Triton Avenue Key|"
+    },
+    {
+      "name": "Electric Eel",
+      "region": "Triton Avenue",
+      "category": [
+        "Wizard City Enemies",
+        "WC - Triton Avenue Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Fear of Drowning",
+      "region": "Triton Avenue",
+      "category": [
+        "Wizard City Enemies",
+        "WC - Triton Avenue Enemies"
+      ],
+      "requires": "|Cyclops Lane Key| AND |Cyclops Lane Side Quest Key|"
+    },
+    {
+      "name": "Fear of Fire",
+      "region": "Unicorn Way",
+      "category": [
+        "Wizard City Enemies",
+        "WC - Unicorn Way Enemies"
+      ],
+      "requires": "|Cyclops Lane Key| AND |Cyclops Lane Side Quest Key|"
+    },
+    {
+      "name": "Kraken",
+      "region": "Triton Avenue Sidequests",
+      "category": [
+        "Wizard City Enemies",
+        "WC - Triton Avenue Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Rotting Fodder",
+      "region": "Olde Town",
+      "category": [
+        "Wizard City Enemies",
+        "WC - Triton Avenue Enemies",
+        "WC - Dark Cave Enemies"
+      ],
+      "requires": "|Triton Avenue Key| OR |Cyclops Lane Key| OR |Firecat Alley Key|"
+    },
+    {
+      "name": "Scarlet Screamer",
+      "region": "Triton Avenue",
+      "category": [
+        "Wizard City Enemies",
+        "WC - Triton Avenue Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Sergeant Skullsplitter",
+      "region": "Triton Avenue Sidequests",
+      "category": [
+        "Wizard City Enemies",
+        "WC - Triton Avenue Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "The Harvest Lord",
+      "region": "Triton Avenue",
+      "category": [
+        "Wizard City Enemies",
+        "WC - Triton Avenue Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Scarlet Screecher (Sergeant Skullsplitter Minion)",
+      "region": "Triton Avenue Sidequests",
+      "category": [
+        "Wizard City Enemies",
+        "WC - Triton Avenue Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Rotted Fodder (Harvest Lord Minion)",
+      "region": "Triton Avenue",
+      "category": [
+        "Wizard City Enemies",
+        "WC - Triton Avenue Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Cyclops Legionnaire",
+      "region": "Cyclops Lane",
+      "category": [
+        "Wizard City Enemies",
+        "WC - Cyclops Lane Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Eyus Maximus",
+      "region": "Cyclops Lane Sidequests",
+      "category": [
+        "Wizard City Enemies",
+        "WC - Cyclops Lane Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Fear of Gentle Breezes",
+      "region": "Cyclops Lane Sidequests",
+      "category": [
+        "Wizard City Enemies",
+        "WC - Cyclops Lane Enemies"
+      ],
+      "requires": "|Triton Avenue Key|"
+    },
+    {
+      "name": "General Akilles",
+      "region": "Cyclops Lane",
+      "category": [
+        "Wizard City Enemies",
+        "WC - Cyclops Lane Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Lumbering Troll",
+      "region": "Cyclops Lane",
+      "category": [
+        "Wizard City Enemies",
+        "WC - Cyclops Lane Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Warhorn",
+      "region": "Cyclops Lane",
+      "category": [
+        "Wizard City Enemies",
+        "WC - Cyclops Lane Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Magma Man",
+      "region": "Firecat Alley",
+      "category": [
+        "Wizard City Enemies",
+        "WC - Firecat Alley Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Skeletal Warrior",
+      "region": "Olde Town",
+      "category": [
+        "Wizard City Enemies",
+        "WC - Firecat Alley Enemies",
+        "WC - Dark Cave Enemies"
+      ],
+      "requires": "|Cyclops Lane Key| OR |Firecat Alley Key|"
+    },
+    {
+      "name": "Fire Elf Hunter",
+      "region": "Firecat Alley",
+      "category": [
+        "Wizard City Enemies",
+        "WC - Firecat Alley Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Fire Elf Pathfinder",
+      "region": "Firecat Alley",
+      "category": [
+        "Wizard City Enemies",
+        "WC - Firecat Alley Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Wormguts",
+      "region": "Firecat Alley Sidequests",
+      "category": [
+        "Wizard City Enemies",
+        "WC - Firecat Alley Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Melweena Smite",
+      "region": "Firecat Alley Sidequests",
+      "category": [
+        "Wizard City Enemies",
+        "WC - Firecat Alley Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Larry",
+      "region": "Firecat Alley Sidequests",
+      "category": [
+        "Wizard City Enemies",
+        "WC - Firecat Alley Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Bastilla Gravewynd",
+      "region": "Firecat Alley",
+      "category": [
+        "Wizard City Enemies",
+        "WC - Firecat Alley Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Alicane Swiftarrow",
+      "region": "Firecat Alley",
+      "category": [
+        "Wizard City Enemies",
+        "WC - Firecat Alley Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Buried Fear",
+      "region": "Cyclops Lane Sidequests",
+      "category": [
+        "Wizard City Enemies",
+        "WC - Dark Cave Enemies"
+      ],
+      "requires": "|Triton Avenue Key|"
+    },
+    {
+      "name": "Baron Greebly",
+      "region": "Colossus Boulevard",
+      "category": [
+        "Wizard City Enemies",
+        "WC - Colossus Boulevard Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Baron Rotunda",
+      "region": "Colossus Boulevard",
+      "category": [
+        "Wizard City Enemies",
+        "WC - Colossus Boulevard Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Evil Snowman",
+      "region": "Colossus Boulevard",
+      "category": [
+        "Wizard City Enemies",
+        "WC - Colossus Boulevard Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Gobbler Glutton",
+      "region": "Colossus Boulevard",
+      "category": [
+        "Wizard City Enemies",
+        "WC - Colossus Boulevard Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Gobbler Gorger",
+      "region": "Colossus Boulevard",
+      "category": [
+        "Wizard City Enemies",
+        "WC - Colossus Boulevard Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Gobbler Muncher",
+      "region": "Colossus Boulevard",
+      "category": [
+        "Wizard City Enemies",
+        "WC - Colossus Boulevard Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Gobbler Scavenger",
+      "region": "Colossus Boulevard",
+      "category": [
+        "Wizard City Enemies",
+        "WC - Colossus Boulevard Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Gobbler Scouter",
+      "region": "Colossus Boulevard",
+      "category": [
+        "Wizard City Enemies",
+        "WC - Colossus Boulevard Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Prince Gobblestone",
+      "region": "Colossus Boulevard",
+      "category": [
+        "Wizard City Enemies",
+        "WC - Colossus Boulevard Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Field Guard",
+      "region": "Haunted Cave",
+      "category": [
+        "Wizard City Enemies",
+        "WC - Haunted Cave Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Lord Nightshade",
+      "region": "Haunted Cave",
+      "category": [
+        "Wizard City Enemies",
+        "WC - Haunted Cave Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Charmed Slave",
+      "region": "Royal Hall",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Royal Hall Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Biti Nirini",
+      "region": "Royal Hall",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Royal Hall Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ice Weaver",
+      "region": "Royal Hall",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Royal Hall Enemies",
+        "KT - Grand Arena Enemies"
+      ],
+      "requires": "|Royal Hall Side Quest Key| OR (|Chamber of Fire Key| AND |Palace of Fire Key| AND |Hall of Champions Key| AND |Grand Arena Key|)"
+    },
+    {
+      "name": "Nirini Scout",
+      "region": "Royal Hall",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Royal Hall Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Nirini Sentry",
+      "region": "Royal Hall",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Royal Hall Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Pike Spiritcrusher",
+      "region": "Royal Hall Sidequests",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Royal Hall Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Veteran Sellsword",
+      "region": "Royal Hall",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Royal Hall Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Flame Guardian",
+      "region": "Chamber of Fire",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Chamber of Fire Enemies",
+        "KT - Palace of Fire Enemies"
+      ],
+      "requires": "|The Oasis Side Quest Key| OR |Palace of Fire Key|"
+    },
+    {
+      "name": "Flame Servant",
+      "region": "Chamber of Fire",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Chamber of Fire Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Nirini Champion",
+      "region": "Chamber of Fire Sidequests",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Chamber of Fire Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Nirini Quartermaster",
+      "region": "Chamber of Fire",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Chamber of Fire Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Soul of the Charmed",
+      "region": "Chamber of Fire",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Chamber of Fire Enemies"
+      ],
+      "requires": "|The Oasis Side Quest Key|"
+    },
+    {
+      "name": "SoulKeeper",
+      "region": "Chamber of Fire",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Chamber of Fire Enemies"
+      ],
+      "requires": "|The Oasis Side Quest Key|"
+    },
+    {
+      "name": "Akori Nirini",
+      "region": "Palace of Fire",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Palace of Fire Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Desert Golem",
+      "region": "Palace of Fire",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Palace of Fire Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Edo Nirini",
+      "region": "Palace of Fire",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Palace of Fire Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Nebit Nirini",
+      "region": "Palace of Fire",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Palace of Fire Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Nirini Warrior",
+      "region": "Palace of Fire",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Palace of Fire Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Shai Nirini",
+      "region": "Palace of Fire",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Palace of Fire Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Krokenkahmen",
+      "region": "Palace of Fire",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Throne Room of Fire Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Krokomummy",
+      "region": "Palace of Fire",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Throne Room of Fire Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Nirini Ancient Guard",
+      "region": "Palace of Fire",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Throne Room of Fire Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Nirini Fire Spirit",
+      "region": "Palace of Fire",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Throne Room of Fire Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Nirini Heir",
+      "region": "Palace of Fire",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Throne Room of Fire Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Nirini House Guard",
+      "region": "Palace of Fire",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Throne Room of Fire Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Prince Manu Nirini",
+      "region": "Palace of Fire",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Throne Room of Fire Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Hall Servant",
+      "region": "Hall of Champions",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Hall of Champions Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Glacial Avenger",
+      "region": "Hall of Champions",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Hall of Champions Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Nekhbet",
+      "region": "Hall of Champions",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Hall of Champions Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Odji Sokkwi",
+      "region": "Hall of Champions",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Hall of Champions Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Sokkwi Crusher",
+      "region": "Hall of Champions",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Hall of Champions Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Sokkwi Protector",
+      "region": "Hall of Champions",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Hall of Champions Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Soul Scavenger",
+      "region": "Hall of Champions",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Hall of Champions Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Vault Haunter",
+      "region": "Hall of Champions",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Hall of Champions Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Bort Malletmane",
+      "region": "Grand Arena",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Grand Arena Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Itennu Sokkwi",
+      "region": "Grand Arena",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Grand Arena Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Khai Amate the Great",
+      "region": "Grand Arena",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Grand Arena Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Krag Stonechin",
+      "region": "Grand Arena",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Grand Arena Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Wild Sunbird",
+      "region": "Grand Arena",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Grand Arena Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Sand Stalker",
+      "region": "Grand Arena",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Grand Arena Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Sands of Time",
+      "region": "Grand Arena Sidequests",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Grand Arena Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Sokkwi Brawler",
+      "region": "Grand Arena",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Grand Arena Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Sokkwi Gouger",
+      "region": "Grand Arena",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Grand Arena Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Sokkwi Ripper",
+      "region": "Grand Arena",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Grand Arena Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Sokkwi Soldier",
+      "region": "Grand Arena",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Grand Arena Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ahnic Strider",
+      "region": "Emperor's Retreat",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Entrance Hall Enemies",
+        "KT - Ahnic Family Tomb Enemies"
+      ],
+      "requires": "|Entrance Hall Side Quest Key| OR |Ahnic Family Tomb Key|"
+    },
+    {
+      "name": "Djeserit Dweller",
+      "region": "Emperor's Retreat",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Entrance Hall Enemies",
+        "KT - Djeserit Family Tomb Enemies"
+      ],
+      "requires": "|Entrance Hall Side Quest Key| OR (|Ahnic Family Tomb Key| AND |Djeserit Family Tomb Key|)"
+    },
+    {
+      "name": "Grumish Greataxe",
+      "region": "Entrance Hall Sidequests",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Entrance Hall Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Defender of the Fang",
+      "region": "Vault of Ice",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Vault of Ice Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Guardian of the Fang",
+      "region": "Vault of Ice",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Vault of Ice Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Protector of the Fang",
+      "region": "Vault of Ice",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Vault of Ice Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Keeper of the Fang",
+      "region": "Vault of Ice",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Vault of Ice Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Vigilant Defender",
+      "region": "Vault of Ice",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Vault of Ice Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ensorcelled Slave",
+      "region": "Emperor's Retreat",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Emperor's Retreat Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Krokhotep",
+      "region": "Emperor's Retreat",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Emperor's Retreat Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Overseer Paniwi",
+      "region": "Emperor's Retreat",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Emperor's Retreat Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Prince Kebi Sokkwi",
+      "region": "Emperor's Retreat",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Emperor's Retreat Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Prince Suten Sokkwi",
+      "region": "Emperor's Retreat",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Emperor's Retreat Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Sokkwi Frostmancer",
+      "region": "Emperor's Retreat",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Emperor's Retreat Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Sokkwi High Guard",
+      "region": "Emperor's Retreat",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Emperor's Retreat Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Sokkwi Keymaster",
+      "region": "Emperor's Retreat",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Emperor's Retreat Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Sokkwi Lancer",
+      "region": "Emperor's Retreat",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Emperor's Retreat Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "King Uro Ahnic",
+      "region": "Ahnic Family Tomb",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Ahnic Family Tomb Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Queen Irisi Djeserit",
+      "region": "Ahnic Sidequests",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Ahnic Family Tomb Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "The Bonekeeper",
+      "region": "Ahnic Family Tomb",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Ahnic Family Tomb Enemies"
+      ],
+      "requires": "|Ahnic Family Tomb Side Quest Key| OR (|Djeserit Family Tomb Key| AND |Djeserit Family Tomb Side Quest Key|)"
+    },
+    {
+      "name": "Tomb Guardian",
+      "region": "Ahnic Family Tomb",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Ahnic Family Tomb Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Shambling Ahnic",
+      "region": "Ahnic Family Tomb",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Ahnic Family Tomb Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Wandering Ahnic Spirit",
+      "region": "Ahnic Family Tomb",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Ahnic Family Tomb Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Crypt Scavenger",
+      "region": "Djeserit Sidequests",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Djeserit Family Tomb Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Forgotten Djeserit Soul",
+      "region": "Djeserit Family Tomb",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Djeserit Family Tomb Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "King Shemet Djeserit",
+      "region": "Djeserit Family Tomb",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Djeserit Family Tomb Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Risen Djeserit",
+      "region": "Djeserit Family Tomb",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Djeserit Family Tomb Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Spirit Spinner",
+      "region": "Djeserit Family Tomb",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Djeserit Family Tomb Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Alchemist Kepi",
+      "region": "Karanahn Sidequests",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Karanahn Barracks Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Crazed Slave",
+      "region": "Karanahn Barracks",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Karanahn Barracks Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Karanahn Elite Guard",
+      "region": "Karanahn Barracks",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Karanahn Barracks Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Karanahn Ravager",
+      "region": "Karanahn Barracks",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Karanahn Barracks Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Kiwu",
+      "region": "Karanahn Sidequests",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Karanahn Barracks Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Taskmaster Djal",
+      "region": "Karanahn Sidequests",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Karanahn Barracks Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tomb Lurker",
+      "region": "Karanahn Sidequests",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Karanahn Barracks Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Karanahn Deathfeeder",
+      "region": "Karanahn Barracks",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Karanahn Palace Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Karanahn Mortifier",
+      "region": "Karanahn Barracks",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Karanahn Palace Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Prince Aka Karanahn",
+      "region": "Karanahn Barracks",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Karanahn Palace Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Prince Ati Karanahn",
+      "region": "Karanahn Barracks",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Karanahn Palace Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Prince Meti Karanahn",
+      "region": "Karanahn Barracks",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Karanahn Palace Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Prince Mkhai Karanahn",
+      "region": "Karanahn Barracks",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Karanahn Palace Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Blade Golem",
+      "region": "Karanahn Barracks",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Temple of Storms Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Karanahn Defiler",
+      "region": "Karanahn Barracks",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Temple of Storms Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Karanahn Queen Guard",
+      "region": "Karanahn Barracks",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Temple of Storms Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Krokopatra",
+      "region": "Karanahn Barracks",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Temple of Storms Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Plague Mist",
+      "region": "Karanahn Barracks",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Temple of Storms Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Son of Storms",
+      "region": "Karanahn Barracks",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Temple of Storms Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Soulsapper",
+      "region": "Karanahn Barracks",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Temple of Storms Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tempestra",
+      "region": "Karanahn Barracks",
+      "category": [
+        "Krokotopia Enemies",
+        "KT - Temple of Storms Enemies"
+      ],
+      "requires": ""
     }
   ]
 }
