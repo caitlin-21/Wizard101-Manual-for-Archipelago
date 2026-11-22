@@ -49,15 +49,56 @@
             "default": false,
             "group": "Side Content"
         },
-        "wysteria":{
-            "description": [
-                "Add locations for Wysteria regions."
-            ],
-            "type": "Toggle",
-            "display_name": "Wysteria",
-            "default": false,
-            "group": "Side Content"
+       "wysteria": {
+        "description": [
+          "Add locations for Wysteria regions."
+        ],
+        "type": "Toggle",
+        "display_name": "Wysteria",
+        "default": false,
+        "group": "Side Content"
+        },
+      "_starting_school": {
+        "description": [
+          "Choose which school you will start with (The school you will make your wizard)."
+        ],
+        "type": "Choice",
+        "display_name": "Starting School",
+        "default": 0,
+        "group": "Game Options",
+        "values": {
+          "Fire": 0,
+          "Ice": 1,
+          "Storm": 2,
+          "Myth": 3,
+          "Life": 4,
+          "Death": 5,
+          "Balance": 6
+        },
+        "aliases": {
+          "fire": 0,
+          "ice": 1,
+          "storm": 2,
+          "myth": 3,
+          "life": 4,
+          "death": 5,
+          "balance": 6
         }
+      },
+      "early_mount": {
+        "description": [
+          "Define if you want the mount license in an early location:\n\t- Local: A mount license will be in an early location in your own game\n\t- Early: A mount license will be in an early location in anyone's game\n\t- Off: Mount Licenses can be anywhere in the multiworld"
+        ],
+        "type": "Choice",
+        "default": 1,
+        "display_name": "Early Mount License",
+        "group": "Game Options",
+        "values": {
+          "Local": 0,
+          "Early": 1,
+          "Off": 2
+        }
+      }
     }
 
 }
