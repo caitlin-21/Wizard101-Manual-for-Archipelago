@@ -3569,6 +3569,70 @@
       "requires": ""
     },
     {
+      "name": "Play Skull Riders",
+      "region": "Fairegrounds",
+      "category": [
+        "Activities - Fairegrounds"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Play Sorcery Stones",
+      "region": "Fairegrounds",
+      "category": [
+        "Activities - Fairegrounds"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Play Doodle Doug",
+      "region": "Fairegrounds",
+      "category": [
+        "Activities - Fairegrounds"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Play Conjuration",
+      "region": "Fairegrounds",
+      "category": [
+        "Activities - Fairegrounds"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Play Hot Shots",
+      "region": "Fairegrounds",
+      "category": [
+        "Activities - Fairegrounds"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Play Choo-Choo Zoo",
+      "region": "Fairegrounds",
+      "category": [
+        "Activities - Fairegrounds"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Play Potion Motion",
+      "region": "Fairegrounds",
+      "category": [
+        "Activities - Fairegrounds"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Play Dueling Diego",
+      "region": "Fairegrounds",
+      "category": [
+        "Activities - Fairegrounds"
+      ],
+      "requires": ""
+    },
+    {
       "name": "[TO-19] Lost Beagle",
       "region": "Kembaalung Village",
       "category": [
@@ -4483,7 +4547,7 @@
         "KT - Entrance Hall Enemies",
         "KT - Ahnic Family Tomb Enemies"
       ],
-      "requires": "|Entrance Hall Side Quest Key| OR |Ahnic Family Tomb Key|"
+      "requires": "|Entrance Hall Side Quest Key| OR |Krok Family Tombs Key|"
     },
     {
       "name": "Djeserit Dweller",
@@ -4493,7 +4557,7 @@
         "KT - Entrance Hall Enemies",
         "KT - Djeserit Family Tomb Enemies"
       ],
-      "requires": "|Entrance Hall Side Quest Key| OR (|Ahnic Family Tomb Key| AND |Djeserit Family Tomb Key|)"
+      "requires": "|Entrance Hall Side Quest Key| OR (|Krok Family Tombs Key|)"
     },
     {
       "name": "Grumish Greataxe",
@@ -4655,7 +4719,7 @@
         "Krokotopia Enemies",
         "KT - Ahnic Family Tomb Enemies"
       ],
-      "requires": "|Ahnic Family Tomb Side Quest Key| OR (|Djeserit Family Tomb Key| AND |Djeserit Family Tomb Side Quest Key|)"
+      "requires": "|Ahnic Family Tomb Side Quest Key| OR (|Krok Family Tombs Key| AND |Djeserit Family Tomb Side Quest Key|)"
     },
     {
       "name": "Tomb Guardian",

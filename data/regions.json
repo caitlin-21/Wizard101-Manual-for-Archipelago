@@ -9,7 +9,8 @@
       "Golem Court",
       "Pet Pavilion",
       "Nightside",
-      "The Commons Sidequests"
+      "The Commons Sidequests",
+      "Fairegrounds"
     ],
     "requires": ""
   },
@@ -36,6 +37,10 @@
   "Pet Pavilion": {
     "connects_to": [],
     "requires": "|Pet License|"
+  },
+  "Fairegrounds": {
+    "connects_to": [],
+    "requires": "|Fairegrounds Minigames|"
   },
   "World Tree": {
     "connects_to": [
@@ -187,14 +192,14 @@
       "Djeserit Family Tomb",
       "Ahnic Sidequests"
     ],
-    "requires": "|Ahnic Family Tomb Key|"
+    "requires": "|Krok Family Tombs Key|"
   },
   "Djeserit Family Tomb": {
     "connects_to": [
       "Karanahn Barracks",
       "Djeserit Sidequests"
     ],
-    "requires": "|Djeserit Family Tomb Key|"
+    "requires": ""
   },
   "Karanahn Barracks": {
     "connects_to": [
@@ -372,7 +377,7 @@
   },
   "Ahnic Sidequests": {
     "connects_to": [],
-    "requires": "|Ahnic Family Tomb Side Quest Key| AND |Djeserit Family Tomb Key|"
+    "requires": "|Ahnic Family Tomb Side Quest Key| AND |Krok Family Tombs Key|"
   },
   "Karanahn Sidequests": {
     "connects_to": [],
