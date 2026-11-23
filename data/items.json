@@ -749,6 +749,33 @@
         "Schools"
       ],
       "useful": true
+    },
+    {
+      "count": 49,
+      "name": "Wizard City Monster Animus",
+      "category": [
+        "Monster Anima",
+        "Wizard City Enemies"
+      ],
+      "filler": true
+    },
+    {
+      "count": 94,
+      "name": "Krokotopia Monster Animus",
+      "category": [
+        "Monster Anima",
+        "Krokotopia Enemies"
+      ],
+      "filler": true
+    },
+    {
+      "count": 62,
+      "name": "Marleybone Monster Animus",
+      "category": [
+        "Monster Anima",
+        "Marleybone Enemies"
+      ],
+      "filler": true
     }
   ]
 }
