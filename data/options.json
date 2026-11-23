@@ -100,7 +100,7 @@
     },
     "early_mount": {
       "description": [
-        "Define if you want the mount license in an early location:\n\t- Local: A mount license will be in an early location in your own game\n\t- Early: A mount license will be in an early location in anyone's game\n\t- Off: Mount Licenses can be anywhere in the multiworld"
+        "Choose whether you want a mount license in an early location:\n - Local: A mount license will be in an early location in your own game\n - Early: A mount license will be in an early location in anyone's game\n - Off: Mount Licenses can be anywhere in the multiworld"
       ],
       "type": "Choice",
       "default": 1,
