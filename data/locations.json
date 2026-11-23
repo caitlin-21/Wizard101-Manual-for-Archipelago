@@ -4928,6 +4928,567 @@
         "KT - Temple of Storms Enemies"
       ],
       "requires": ""
+    },
+    {
+      "name": "Gearhead (Boss)",
+      "region": "Hyde Park",
+      "category": [
+        "Marleybone Enemies",
+        "MB - Hyde Park Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Giant Spider (Life)",
+      "region": "Hyde Park",
+      "category": [
+        "Marleybone Enemies",
+        "MB - Hyde Park Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Hooligan",
+      "region": "Hyde Park",
+      "category": [
+        "Marleybone Enemies",
+        "MB - Hyde Park Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Midnighter",
+      "region": "Hyde Park",
+      "category": [
+        "Marleybone Enemies",
+        "MB - Hyde Park Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "O'Leary Burglar",
+      "region": "Hyde Park",
+      "category": [
+        "Marleybone Enemies",
+        "MB - Hyde Park Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "O'Leary Charlatan",
+      "region": "Hyde Park",
+      "category": [
+        "Marleybone Enemies",
+        "MB - Hyde Park Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "O'Leary Napper (Balance)",
+      "region": "Hyde Park",
+      "category": [
+        "Marleybone Enemies",
+        "MB - Hyde Park Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "O'Leary Napper (Fire)",
+      "region": "Hyde Park",
+      "category": [
+        "Marleybone Enemies",
+        "MB - Hyde Park Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "O'Leary Scurrier",
+      "region": "Hyde Park",
+      "category": [
+        "Marleybone Enemies",
+        "MB - Hyde Park Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "O'Leary Thug",
+      "region": "Hyde Park",
+      "category": [
+        "Marleybone Enemies",
+        "MB - Hyde Park Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Patches O'Leary",
+      "region": "Hyde Park Sidequests",
+      "category": [
+        "Marleybone Enemies",
+        "MB - Hyde Park Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Sammy O'Leary",
+      "region": "Hyde Park Sidequests",
+      "category": [
+        "Marleybone Enemies",
+        "MB - Hyde Park Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Willie Marks",
+      "region": "Hyde Park",
+      "category": [
+        "Marleybone Enemies",
+        "MB - Hyde Park Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Gearhead (Minion)",
+      "region": "Hyde Park",
+      "category": [
+        "Marleybone Enemies",
+        "MB - Chelsea Court Enemies",
+        "MB - Hyde Park Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "O'Leary Bruiser",
+      "region": "Chelsea Court",
+      "category": [
+        "Marleybone Enemies",
+        "MB - Chelsea Court Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "O'Leary Trickster",
+      "region": "Chelsea Court",
+      "category": [
+        "Marleybone Enemies",
+        "MB - Chelsea Court Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Potbelly",
+      "region": "Chelsea Court",
+      "category": [
+        "Marleybone Enemies",
+        "MB - Chelsea Court Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ruffian",
+      "region": "Chelsea Court",
+      "category": [
+        "Marleybone Enemies",
+        "MB - Chelsea Court Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Shakes O'Leary",
+      "region": "Chelsea Court",
+      "category": [
+        "Marleybone Enemies",
+        "MB - Chelsea Court Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Timmy Icepick",
+      "region": "Chelsea Court",
+      "category": [
+        "Marleybone Enemies",
+        "MB - Chelsea Court Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Brady the Sneak",
+      "region": "The Ironworks",
+      "category": [
+        "Marleybone Enemies",
+        "MB - The Ironworks Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Grave Phantom",
+      "region": "The Ironworks",
+      "category": [
+        "Marleybone Enemies",
+        "MB - The Ironworks Enemies",
+        "MB - Newgate Prison Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Nails O'Leary",
+      "region": "The Ironworks",
+      "category": [
+        "Marleybone Enemies",
+        "MB - The Ironworks Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "O'Leary Brute",
+      "region": "The Ironworks",
+      "category": [
+        "Marleybone Enemies",
+        "MB - The Ironworks Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Old Smokey",
+      "region": "The Ironworks",
+      "category": [
+        "Marleybone Enemies",
+        "MB - The Ironworks Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Pops O'Leary",
+      "region": "The Ironworks",
+      "category": [
+        "Marleybone Enemies",
+        "MB - The Ironworks Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Rags O'Leary",
+      "region": "The Ironworks",
+      "category": [
+        "Marleybone Enemies",
+        "MB - The Ironworks Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Scrounger",
+      "region": "The Ironworks",
+      "category": [
+        "Marleybone Enemies",
+        "MB - The Ironworks Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Street Sweeper",
+      "region": "The Ironworks",
+      "category": [
+        "Marleybone Enemies",
+        "MB - The Ironworks Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "O'Leary Bully",
+      "region": "Newgate Prison",
+      "category": [
+        "Marleybone Enemies",
+        "MB - Newgate Prison Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "O'Leary Swindler",
+      "region": "Newgate Prison",
+      "category": [
+        "Marleybone Enemies",
+        "MB - Newgate Prison Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Gibson O'Leary",
+      "region": "Newgate Prison",
+      "category": [
+        "Marleybone Enemies",
+        "MB - Newgate Prison Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Lockpick O'Leary",
+      "region": "Newgate Prison Sidequests",
+      "category": [
+        "Marleybone Enemies",
+        "MB - Newgate Prison Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Mugsy",
+      "region": "Newgate Prison Sidequests",
+      "category": [
+        "Marleybone Enemies",
+        "MB - Newgate Prison Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Shield Skeleton",
+      "region": "Newgate Prison",
+      "category": [
+        "Marleybone Enemies",
+        "MB - Newgate Prison Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Shrieker",
+      "region": "Newgate Prison",
+      "category": [
+        "Marleybone Enemies",
+        "MB - Newgate Prison Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tomb Roamer",
+      "region": "Newgate Prison",
+      "category": [
+        "Marleybone Enemies",
+        "MB - Newgate Prison Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "O'Leary Prowler",
+      "region": "Knight's Court",
+      "category": [
+        "Marleybone Enemies",
+        "MB - Knight's Court Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Black Widow",
+      "region": "Knight's Court Sidequests",
+      "category": [
+        "Marleybone Enemies",
+        "MB - Knight's Court Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Brown Recluse",
+      "region": "Knight's Court",
+      "category": [
+        "Marleybone Enemies",
+        "MB - Knight's Court Enemies",
+        "MB - Royal Museum Enemies"
+      ],
+      "requires": "|Knight's Court Side Quest Key| OR |Royal Museum Key|"
+    },
+    {
+      "name": "Burly Troll",
+      "region": "Knight's Court",
+      "category": [
+        "Marleybone Enemies",
+        "MB - Knight's Court Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Deadly Scratcher",
+      "region": "Knight's Court",
+      "category": [
+        "Marleybone Enemies",
+        "MB - Knight's Court Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Devious Scratcher",
+      "region": "Knight's Court",
+      "category": [
+        "Marleybone Enemies",
+        "MB - Knight's Court Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Jacques the Scratcher",
+      "region": "Knight's Court",
+      "category": [
+        "Marleybone Enemies",
+        "MB - Knight's Court Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Mikey the Brick",
+      "region": "Knight's Court Sidequests",
+      "category": [
+        "Marleybone Enemies",
+        "MB - Knight's Court Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Shrewd Scratcher",
+      "region": "Knight's Court",
+      "category": [
+        "Marleybone Enemies",
+        "MB - Knight's Court Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Clanker",
+      "region": "Katzenstein's Lab",
+      "category": [
+        "Marleybone Enemies",
+        "MB - Katzenstein's Lab Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Clockwork Warrior",
+      "region": "Katzenstein's Lab",
+      "category": [
+        "Marleybone Enemies",
+        "MB - Katzenstein's Lab Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Clockwork Wizard",
+      "region": "Katzenstein's Lab",
+      "category": [
+        "Marleybone Enemies",
+        "MB - Katzenstein's Lab Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Dr. Von Katzenstein",
+      "region": "Katzenstein's Lab",
+      "category": [
+        "Marleybone Enemies",
+        "MB - Katzenstein's Lab Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Firegut",
+      "region": "Katzenstein's Lab",
+      "category": [
+        "Marleybone Enemies",
+        "MB - Katzenstein's Lab Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Gear Spinner",
+      "region": "Katzenstein's Lab",
+      "category": [
+        "Marleybone Enemies",
+        "MB - Katzenstein's Lab Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Kettlehead",
+      "region": "Katzenstein's Lab",
+      "category": [
+        "Marleybone Enemies",
+        "MB - Katzenstein's Lab Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Mechanical Healer",
+      "region": "Katzenstein's Lab",
+      "category": [
+        "Marleybone Enemies",
+        "MB - Katzenstein's Lab Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Smogger",
+      "region": "Katzenstein's Lab",
+      "category": [
+        "Marleybone Enemies",
+        "MB - Katzenstein's Lab Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Bellows",
+      "region": "Royal Museum",
+      "category": [
+        "Marleybone Enemies",
+        "MB - Royal Museum Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Filcher",
+      "region": "Royal Museum",
+      "category": [
+        "Marleybone Enemies",
+        "MB - Royal Museum Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Meowiarty",
+      "region": "Royal Museum",
+      "category": [
+        "Marleybone Enemies",
+        "MB - Royal Museum Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "O'Leary Conniver",
+      "region": "Royal Museum",
+      "category": [
+        "Marleybone Enemies",
+        "MB - Royal Museum Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "O'Leary Rowdy",
+      "region": "Royal Museum",
+      "category": [
+        "Marleybone Enemies",
+        "MB - Royal Museum Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Spike the Crusher",
+      "region": "Royal Museum",
+      "category": [
+        "Marleybone Enemies",
+        "MB - Royal Museum Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Sprockets",
+      "region": "Royal Museum",
+      "category": [
+        "Marleybone Enemies",
+        "MB - Royal Museum Enemies"
+      ],
+      "requires": ""
     }
   ]
 }
