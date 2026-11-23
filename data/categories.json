@@ -89,16 +89,16 @@
     ],
     "hidden": true
   },
-  "EarlyMount": {
+  "Activities - Pet Training": {
     "yaml_option": [
-      "early_mount"
+      "activities"
     ],
-    "hidden": true
+    "hidden": false
   },
-  "LateMount": {
+  "Activities - Fairegrounds": {
     "yaml_option": [
-      "!early_mount"
+      "activities"
     ],
-    "hidden": true 
+    "hidden": false
   }
 }

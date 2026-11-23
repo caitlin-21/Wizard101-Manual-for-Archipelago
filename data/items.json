@@ -101,6 +101,14 @@
     },
     {
       "count": 1,
+      "name": "Fairegrounds Minigames",
+      "category": [
+        "Wizard City Streets"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
       "name": "Royal Hall Key",
       "category": [
         "Krokotopia Streets"
@@ -141,15 +149,7 @@
     },
     {
       "count": 1,
-      "name": "Ahnic Family Tomb Key",
-      "category": [
-        "Krokotopia Streets"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Djeserit Family Tomb Key",
+      "name": "Krok Family Tombs Key",
       "category": [
         "Krokotopia Streets"
       ],
