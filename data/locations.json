@@ -1977,17 +1977,6 @@
       "requires": "|Stray Cat Strut (MB)|"
     },
     {
-      "name": "Create a Wizard (Get a School)",
-      "region": "The Commons",
-      "category": [
-        "!START HERE!"
-      ],
-      "requires": "",
-      "place_item_category": [
-        "Starting Schools"
-      ]
-    },
-    {
       "name": "[UW-01] Advanced Combat",
       "region": "Unicorn Way Sidequests",
       "category": [

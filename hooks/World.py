@@ -78,6 +78,31 @@ def before_create_items_starting(item_pool: list, world: World, multiworld: Mult
 
 # The item pool after starting items are processed but before filler is added, in case you want to see the raw item pool at that stage
 def before_create_items_filler(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
+    starting_items = []
+    starting_school = world.options.starting_school
+    if starting_school.value == 7:
+        starting_school.value = world.random.randint(0, 6)
+    match starting_school.value:
+        case 0:
+            starting_items.append("Fire School")
+        case 1:
+            starting_items.append("Ice School")
+        case 2:
+            starting_items.append("Storm School")
+        case 3:
+            starting_items.append("Myth School")
+        case 4:
+            starting_items.append("Life School")
+        case 5:
+            starting_items.append("Death School")
+        case 6:
+            starting_items.append("Balance School")
+
+    for itemName in starting_items:
+        item = next(i for i in item_pool if i.name == itemName)
+        multiworld.push_precollected(item)
+        item_pool.remove(item)
+
     # Use this hook to remove items from the item pool
     itemNamesToRemove: list[str] = [] # List of item names
 
