@@ -58,7 +58,7 @@
         "default": false,
         "group": "Side Content"
         },
-      "_starting_school": {
+      "starting_school": {
         "description": [
           "Choose which school you will start with (The school you will make your wizard)."
         ],
@@ -73,7 +73,8 @@
           "Myth": 3,
           "Life": 4,
           "Death": 5,
-          "Balance": 6
+          "Balance": 6,
+          "Random": 7
         },
         "aliases": {
           "fire": 0,
@@ -82,7 +83,8 @@
           "myth": 3,
           "life": 4,
           "death": 5,
-          "balance": 6
+          "balance": 6,
+          "random": 7
         }
       },
       "early_mount": {
@@ -91,7 +93,7 @@
         ],
         "type": "Choice",
         "default": 1,
-        "display_name": "Early Mount License",
+        "display_name": "Mount License",
         "group": "Game Options",
         "values": {
           "Local": 0,
