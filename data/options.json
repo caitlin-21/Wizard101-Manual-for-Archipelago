@@ -1,106 +1,117 @@
 {
-    "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.options.schema.json",
-    "_comment": "Add a _ before an option name to comment it out and it wont be added to the apworld",
-    "core": {
-        "_goal":{
-            "_comment": [
-                "Using 'goal' as the name of an option let you override some of the generated goal parameters"
-            ],
-            "display_name": "The End Objective",
-            "description": "How to End your Randomized playthrough.",
-            "aliases": {"easiest": 0},
-            "hidden": false
-        },
-        "death_link": {
-            "default": false
-        },
-        "_filler_traps": {
-            "_comment": "Using values here let you set a 'recommended' filler_trap percentage or even a default percentage",
-            "values": {
-                "recommended": 20
-            }
-        }
-    },
-    "user": {
-        "enemysanity":{
-            "description": [
-                "Add locations for every enemy in the game"
-            ],
-            "type": "Toggle",
-            "display_name": "Enemysanity",
-            "default": false,
-            "group": "Game Options"
-        },
-        "kembaalung":{
-            "description": [
-                "Add locations for Kembaalung Village region."
-            ],
-            "type": "Toggle",
-            "display_name": "Kembaalung Village",
-            "default": false,
-            "group": "Side Content"
-        },
-        "grizzleheim":{
-            "description": [
-                "Add locations for Grizzleheim regions."
-            ],
-            "type": "Toggle",
-            "display_name": "Grizzleheim",
-            "default": false,
-            "group": "Side Content"
-        },
-       "wysteria": {
-        "description": [
-          "Add locations for Wysteria regions."
-        ],
-        "type": "Toggle",
-        "display_name": "Wysteria",
-        "default": false,
-        "group": "Side Content"
-        },
-      "starting_school": {
-        "description": [
-          "Choose which school you will start with (The school you will make your wizard)."
-        ],
-        "type": "Choice",
-        "display_name": "Starting School",
-        "default": 0,
-        "group": "Game Options",
-        "values": {
-          "Fire": 0,
-          "Ice": 1,
-          "Storm": 2,
-          "Myth": 3,
-          "Life": 4,
-          "Death": 5,
-          "Balance": 6,
-          "Random": 7
-        },
-        "aliases": {
-          "fire": 0,
-          "ice": 1,
-          "storm": 2,
-          "myth": 3,
-          "life": 4,
-          "death": 5,
-          "balance": 6,
-          "random": 7
-        }
+  "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.options.schema.json",
+  "_comment": "Add a _ before an option name to comment it out and it wont be added to the apworld",
+  "core": {
+    "_goal": {
+      "_comment": [
+        "Using 'goal' as the name of an option let you override some of the generated goal parameters"
+      ],
+      "display_name": "The End Objective",
+      "description": "How to End your Randomized playthrough.",
+      "aliases": {
+        "easiest": 0
       },
-      "early_mount": {
-        "description": [
-          "Define if you want the mount license in an early location:\n\t- Local: A mount license will be in an early location in your own game\n\t- Early: A mount license will be in an early location in anyone's game\n\t- Off: Mount Licenses can be anywhere in the multiworld"
-        ],
-        "type": "Choice",
-        "default": 1,
-        "display_name": "Mount License",
-        "group": "Game Options",
-        "values": {
-          "Local": 0,
-          "Early": 1,
-          "Off": 2
-        }
+      "hidden": false
+    },
+    "death_link": {
+      "default": false
+    },
+    "_filler_traps": {
+      "_comment": "Using values here let you set a 'recommended' filler_trap percentage or even a default percentage",
+      "values": {
+        "recommended": 20
       }
     }
+  },
+  "user": {
+    "enemysanity": {
+      "description": [
+        "Add locations for every enemy in the game"
+      ],
+      "type": "Toggle",
+      "display_name": "Enemysanity",
+      "default": false,
+      "group": "Checks and Sanities"
+    },
+    "activities": {
+      "description": [
+        "Add locations for minigames in the Pet Pavilion and Fairegrounds"
+      ],
+      "type": "Toggle",
+      "display_name": "Activities",
+      "default": false,
+      "group": "Checks and Sanities"
+    },
+    "kembaalung": {
+      "description": [
+        "Add locations for Kembaalung Village region."
+      ],
+      "type": "Toggle",
+      "display_name": "Kembaalung Village",
+      "default": false,
+      "group": "Side World Content"
+    },
+    "grizzleheim": {
+      "description": [
+        "Add locations for Grizzleheim regions."
+      ],
+      "type": "Toggle",
+      "display_name": "Grizzleheim",
+      "default": false,
+      "group": "Side World Content"
+    },
+    "wysteria": {
+      "description": [
+        "Add locations for Wysteria regions."
+      ],
+      "type": "Toggle",
+      "display_name": "Wysteria",
+      "default": false,
+      "group": "Side World Content"
+    },
+    "starting_school": {
+      "description": [
+        "Choose which school you will start with (The school you will make your wizard)."
+      ],
+      "type": "Choice",
+      "display_name": "Starting School",
+      "default": 0,
+      "group": "Game Options",
+      "values": {
+        "Fire": 0,
+        "Ice": 1,
+        "Storm": 2,
+        "Myth": 3,
+        "Life": 4,
+        "Death": 5,
+        "Balance": 6,
+        "Random": 7
+      },
+      "aliases": {
+        "fire": 0,
+        "ice": 1,
+        "storm": 2,
+        "myth": 3,
+        "life": 4,
+        "death": 5,
+        "balance": 6,
+        "random": 7
+      }
+    },
+    "early_mount": {
+      "description": [
+        "Define if you want the mount license in an early location:\n\t- Local: A mount license will be in an early location in your own game\n\t- Early: A mount license will be in an early location in anyone's game\n\t- Off: Mount Licenses can be anywhere in the multiworld"
+      ],
+      "type": "Choice",
+      "default": 1,
+      "display_name": "Mount License",
+      "group": "Game Options",
+      "values": {
+        "Local": 0,
+        "Early": 1,
+        "Off": 2
+      }
+    }
+  }
 
 }
