@@ -776,6 +776,15 @@
         "Marleybone Enemies"
       ],
       "filler": true
+    },
+    {
+      "count": 11,
+      "name": "Kembaalung Monster Animus",
+      "category": [
+        "Monster Anima",
+        "Kembaalung Enemies"
+      ],
+      "filler": true
     }
   ]
 }
