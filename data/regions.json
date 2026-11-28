@@ -55,13 +55,13 @@
       "The Oasis Sidequests",
       "Northguard Alternate Route"
     ],
-    "requires": "|Progressive Spiral Door Key|"
+    "requires": "|Progressive Spiral Door Key| AND ({YamlCompare(petrequired != 1)} OR ({YamlCompare(petrequired == 1)} AND |Pet License|)"
   },
   "Regent's Square": {
     "connects_to": [
       "Digmoore Station"
     ],
-    "requires": "|Progressive Spiral Door Key:2|"
+    "requires": "|Progressive Spiral Door Key:2| AND ({YamlCompare(petrequired != 2)} OR ({YamlCompare(petrequired == 2)} AND |Pet License|)"
   },
   "Jade Palace": {
     "connects_to": [

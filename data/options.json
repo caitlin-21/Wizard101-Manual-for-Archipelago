@@ -111,7 +111,20 @@
         "Early": 1,
         "Off": 2
       }
+    },
+    "petrequired": {
+      "description": [
+        "Optionally adds the Pet License as a required item for accessing the selected world (and beyond)"
+      ],
+      "type": "Choice",
+      "display_name": "Require Pet License?",
+      "group": "Game Options",
+      "values": {
+        "Off": 0,
+        "Krokotopia": 1,
+        "Marleybone": 2
+      },
+      "default": 0
     }
   }
-
 }
