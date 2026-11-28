@@ -5489,6 +5489,105 @@
         "MB - Royal Museum Enemies"
       ],
       "requires": ""
+    },
+    {
+      "name": "Body Bowl",
+      "region": "Kembaalung Village",
+      "category": [
+        "Kembaalung Enemies",
+        "KT - Kembaalung Village Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Enthralled Body Monk",
+      "region": "Kembaalung Village",
+      "category": [
+        "Kembaalung Enemies",
+        "KT - Kembaalung Village Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Enthralled Spirit Monk",
+      "region": "Kembaalung Village",
+      "category": [
+        "Kembaalung Enemies",
+        "KT - Kembaalung Village Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Enthralled Mind Monk",
+      "region": "Kembaalung Village",
+      "category": [
+        "Kembaalung Enemies",
+        "KT - Kembaalung Village Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Hoof Ninja",
+      "region": "Kembaalung Village",
+      "category": [
+        "Kembaalung Enemies",
+        "KT - Kembaalung Village Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Master Tonkatsu",
+      "region": "Kembaalung Village",
+      "category": [
+        "Kembaalung Enemies",
+        "KT - Kembaalung Village Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Mind Bowl",
+      "region": "Kembaalung Village",
+      "category": [
+        "Kembaalung Enemies",
+        "KT - Kembaalung Village Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Spirit Bowl",
+      "region": "Kembaalung Village",
+      "category": [
+        "Kembaalung Enemies",
+        "KT - Kembaalung Village Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tsutsui",
+      "region": "Kembaalung Village",
+      "category": [
+        "Kembaalung Enemies",
+        "KT - Kembaalung Village Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Woolly Bully",
+      "region": "Kembaalung Village",
+      "category": [
+        "Kembaalung Enemies",
+        "KT - Kembaalung Village Enemies"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Zhu Wuneng",
+      "region": "Kembaalung Village",
+      "category": [
+        "Kembaalung Enemies",
+        "KT - Kembaalung Village Enemies"
+      ],
+      "requires": ""
     }
   ]
 }
